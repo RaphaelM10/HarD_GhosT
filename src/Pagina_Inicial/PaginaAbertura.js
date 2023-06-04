@@ -5,7 +5,7 @@ import './css/Abertura.css'
 import './css/AberturaMobile.css'
 export default function Abertura(){
     return(
-        <>
+        <><body className='abert'>
             <main className='main-abertura'>
             <h1>HarD-GhosT &reg; 2023 Oficial</h1>
                 <img src={Logo}></img>
@@ -15,6 +15,8 @@ export default function Abertura(){
             </main>
             
             <Outlet/>
+            
+            </body>
         </>
     )
 }
