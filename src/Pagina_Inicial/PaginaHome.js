@@ -63,7 +63,7 @@ export default function Home(){
         </section>
         <section className='menu'>
         <div className = 'menu-opcao'>
-            <a href=''><p>Inicio</p></a>
+            <Link href='/home'><p>Inicio</p></Link>
             <Link to='/memes'><p>Memes</p></Link>
             <Link to='/videos'><p>Videos</p></Link>
             <Link to='/samp'><p>Samp</p></Link>
