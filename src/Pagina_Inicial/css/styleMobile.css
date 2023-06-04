@@ -1,0 +1,2042 @@
+
+@media (max-width:1200px){
+    .section-reflexao{
+        padding: 30px;
+        background-color: rgb(124, 48, 196,0.1) ;
+        text-align: center;
+        margin-right: 200px;
+        margin-left: 200px;
+        border: 3px solid #fff;
+        border-radius: 3px;
+        font-family: 'Kanit', sans-serif;
+       
+    }
+    .div-reflexao-2 img{
+        width: 400px;
+        cursor: pointer;
+    
+    }
+}
+
+
+@media (max-width:983px){
+
+    .txt{
+        text-align: center;
+        background-color: rgb(124, 48, 196,0.5) ;
+        padding: 20px;
+        border-radius: 100px;
+        border: 3px solid #fff;
+        margin-bottom: 50px;
+        font-family: 'Kanit', sans-serif;
+    
+    }
+    .txt h3{
+        font-weight: 400;
+        font-size: 25px;
+    
+    }
+    .txt p{
+        font-size: 18px;
+    }
+    .sec-dourado{
+        font-size: 16px;
+        text-align: center;
+        background-color: rgba(107, 20, 194, 0.90) ;
+        border: 3px solid #fff;
+        margin-left: 130px;
+        margin-right: 100px;
+        margin-bottom: 100px;
+        font-family: 'Kanit', sans-serif;
+    }
+    .sec-dourado h3{
+        padding-top: 20px;
+        font-weight: 400;
+    }
+    .txt-2{
+        text-align: center;
+        background-color: rgba(89, 8, 165, 0.91) ;
+        border-radius: 100px;
+        border: 3px solid #fff;
+        margin-bottom: 40px;
+        margin-left: 30px;
+        margin-right: 30px;
+        font-family: 'Kanit', sans-serif;
+     }
+    .section-reflexao{
+        padding: 30px;
+        background-color: rgb(124, 48, 196,0.1) ;
+        text-align: center;
+        margin-right: 130px;
+        margin-left: 130px;
+        border: 3px solid #fff;
+        border-radius: 3px;
+        font-family: 'Kanit', sans-serif;
+       
+    }
+    .div-reflexao-2 img{
+        width: 380px;
+        cursor: pointer;
+    
+    }
+}
+
+@media (max-width:838px){
+
+    .txt{
+        text-align: center;
+        background-color: rgb(124, 48, 196,0.5) ;
+        padding: 20px;
+        border-radius: 100px;
+        border: 3px solid #fff;
+        margin-bottom: 50px;
+        font-family: 'Kanit', sans-serif;
+    
+    }
+    .txt h3{
+        font-weight: 400;
+        font-size: 25px;
+    
+    }
+    .txt p{
+        font-size: 18px;
+    }
+    .sec-dourado{
+        font-size: 14px;
+        text-align: center;
+        background-color: rgba(107, 20, 194, 0.90) ;
+        border: 3px solid #fff;
+        margin-left: 130px;
+        margin-right: 100px;
+        margin-bottom: 100px;
+        font-family: 'Kanit', sans-serif;
+    }
+    .sec-dourado h3{
+        padding-top: 20px;
+        font-weight: 400;
+    }
+    .txt-2{
+        text-align: center;
+        background-color: rgba(89, 8, 165, 0.91) ;
+        border-radius: 100px;
+        border: 3px solid #fff;
+        margin-bottom: 40px;
+        margin-left: 20px;
+        margin-right: 20px;
+        font-family: 'Kanit', sans-serif;
+     }
+     .txt-2 h3{
+         padding-top: 19px;
+         font-size: 20px;
+         font-weight: 200;
+     }
+     
+    .section-reflexao{
+        padding: 30px;
+        background-color: rgb(124, 48, 196,0.1) ;
+        text-align: center;
+        margin-right: 130px;
+        margin-left: 130px;
+        border: 3px solid #fff;
+        border-radius: 3px;
+        font-family: 'Kanit', sans-serif;
+       
+    }
+    .div-reflexao-2 img{
+        width: 350px;
+        cursor: pointer;
+    
+    }
+}
+
+
+@media (max-width:815px){
+    .cargos{
+        display: flex;
+        justify-content: space-around;
+        padding-top: 40px;
+        padding: 30px;
+    }
+    
+    .cargos-div-img img{
+        background-color:  rgb(76, 23, 122);
+        border-radius: 5px;
+        border: 5px solid #fff;
+        padding: 20px;
+        height: 400px;
+    }
+    
+    .cargos-div{
+        background-color: #fff;
+        color: rgb(97, 32, 158);
+        padding: 50px;
+        border-radius: 7px;
+       
+    }
+    .cargos-lista{
+        padding-top: 30px;
+    }
+    .txt{
+        text-align: center;
+        background-color: rgb(124, 48, 196,0.5) ;
+        padding: 20px;
+        border-radius: 100px;
+        border: 3px solid #fff;
+        margin-bottom: 50px;
+        font-family: 'Kanit', sans-serif;
+    
+    }
+    .txt h3{
+        font-weight: 400;
+        font-size: 23px;
+    
+    }
+    .txt p{
+        font-size: 18px;
+    }
+    .sec-dourado{
+        font-size: 14px;
+        text-align: center;
+        background-color: rgba(107, 20, 194, 0.90) ;
+        border: 3px solid #fff;
+        margin-left: 130px;
+        margin-right: 100px;
+        margin-bottom: 100px;
+        font-family: 'Kanit', sans-serif;
+    }
+    .sec-dourado h3{
+        padding-top: 20px;
+        font-weight: 400;
+    }
+    .txt-2{
+        text-align: center;
+        background-color: rgba(89, 8, 165, 0.91) ;
+        border-radius: 100px;
+        border: 3px solid #fff;
+        margin-bottom: 40px;
+        margin-left: 10px;
+        margin-right: 10px;
+        font-family: 'Kanit', sans-serif;
+     }
+     .txt-2 h3{
+         padding-top: 19px;
+         font-size: 18px;
+         font-weight: 200;
+     }
+     .contatos p{
+        background-color:  #fff;
+        width: 150px;
+        padding: 15px;
+        border-radius: 9px;
+        cursor: pointer;
+        border-radius: 7px;
+        color: rgb(97, 32, 158) ;
+        
+    }
+   
+    .destaques{
+        
+        text-align: center;
+        font-size: 18px;
+        border: 3px solid #fff;
+        border-radius: 7px;
+        padding: 60px;
+        background-color: rgb(97, 32, 158,0.95);
+      
+    }
+    .destaque-div{
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 7px;
+    
+    }
+    .destaque-lista{
+        color: rgb(97, 32, 158);
+    }
+     
+    .section-reflexao{
+        padding: 30px;
+        background-color: rgb(124, 48, 196,0.1) ;
+        text-align: center;
+        margin-right: 130px;
+        margin-left: 130px;
+        border: 3px solid #fff;
+        border-radius: 3px;
+        font-family: 'Kanit', sans-serif;
+       
+    }
+    .div-reflexao-2 img{
+        width: 320px;
+        cursor: pointer;
+    
+    }
+
+    .div-galeria{
+        display: flex;
+        justify-content: center;
+        gap: 50px;
+    }
+    .div-galeria p{
+        font-size: 18px;
+        background-color: #fff;
+        color:  rgb(97, 32, 158);
+        padding: 20px;
+        border-radius: 7px;
+        cursor: pointer;
+    
+    }
+    .div-galeria  p:hover{
+        background-color: rgb(142, 74, 206);
+        padding: 25px;
+        transition: 0.5s;
+    }
+}
+
+
+@media (max-width:738px){
+    .cargos{
+        display: flex;
+        justify-content: space-around;
+        padding-top: 40px;
+        padding: 30px;
+    }
+    
+    .cargos-div-img img{
+        background-color:  rgb(76, 23, 122);
+        border-radius: 5px;
+        border: 5px solid #fff;
+        padding: 20px;
+        height: 380px;
+    }
+    
+    .cargos-div{
+        background-color: #fff;
+        color: rgb(97, 32, 158);
+        padding: 50px;
+        border-radius: 7px;
+       
+    }
+    .cargos-lista{
+        padding-top: 30px;
+    }
+    .txt{
+        text-align: center;
+        background-color: rgb(124, 48, 196,0.5) ;
+        padding: 20px;
+        border-radius: 100px;
+        border: 3px solid #fff;
+        margin-bottom: 50px;
+        font-family: 'Kanit', sans-serif;
+    
+    }
+    .txt h3{
+        font-weight: 400;
+        font-size: 20px;
+    
+    }
+    .txt p{
+        font-size: 17px;
+    }
+    .sec-dourado{
+        font-size: 14px;
+        text-align: center;
+        background-color: rgba(107, 20, 194, 0.90) ;
+        border: 3px solid #fff;
+        margin-left: 60px;
+        margin-right: 60px;
+        margin-bottom: 100px;
+        font-family: 'Kanit', sans-serif;
+    }
+    .sec-dourado h3{
+        padding-top: 20px;
+        font-weight: 400;
+    }
+    .txt-2{
+        text-align: center;
+        background-color: rgba(89, 8, 165, 0.91) ;
+        border-radius: 100px;
+        border: 3px solid #fff;
+        margin-bottom: 40px;
+        margin-left: 10px;
+        margin-right: 10px;
+        font-family: 'Kanit', sans-serif;
+        padding: 20px;
+     }
+     .txt-2 h3{
+         padding-top: 19px;
+         font-size: 18px;
+         font-weight: 200;
+     }
+     .contatos p{
+        font-size: 15px;
+        background-color:  #fff;
+        width: 130px;
+        padding: 11px;
+        border-radius: 9px;
+        cursor: pointer;
+        border-radius: 7px;
+        color: rgb(97, 32, 158) ;
+        
+    }
+   
+    .destaques{
+        
+        text-align: center;
+        font-size: 14px;
+        border: 3px solid #fff;
+        border-radius: 7px;
+        padding: 60px;
+        background-color: rgb(97, 32, 158,0.95);
+      
+    }
+    .destaque-div{
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 7px;
+    
+    }
+    .destaque-lista{
+        color: rgb(97, 32, 158);
+    }
+     
+    .section-reflexao{
+        padding: 30px;
+        background-color: rgb(124, 48, 196,0.1) ;
+        text-align: center;
+        margin-right: 100px;
+        margin-left: 100px;
+        border: 3px solid #fff;
+        border-radius: 3px;
+        font-family: 'Kanit', sans-serif;
+       
+    }
+    .div-reflexao-2 img{
+        width: 320px;
+        cursor: pointer;
+    
+    }
+
+    .div-galeria{
+        display: flex;
+        justify-content: center;
+        gap: 50px;
+    }
+    .div-galeria p{
+        font-size: 18px;
+        background-color: #fff;
+        color:  rgb(97, 32, 158);
+        padding: 20px;
+        border-radius: 7px;
+        cursor: pointer;
+    
+    }
+    .div-galeria  p:hover{
+        background-color: rgb(142, 74, 206);
+        padding: 25px;
+        transition: 0.5s;
+    }
+    .mais-info{
+        font-size: 15px;
+        background-color: rgb(124, 48, 196,0.1) ;
+        padding: 30px;
+        margin-left: 30%;
+        margin-right: 30%;
+        border-radius: 7px;
+        font-weight: 300;
+        color: #fff;
+        font-family: 'Kanit', sans-serif;
+    }
+    footer{
+        text-align: center;
+        display: flex;
+        margin-left: 40%;
+        color: #fff;
+    
+    }
+    .footer-hp{
+        font-size: 15px;
+        padding-top: 40px;
+    }
+    #img-footer{
+        width: 180px;
+       
+        
+    }
+}
+
+
+
+
+@media (max-width:675px){
+    .cargos{
+        display: flex;
+        justify-content: space-around;
+        padding-top: 40px;
+        padding: 20px;
+    }
+    
+    .cargos-div-img img{
+        background-color:  rgb(76, 23, 122);
+        border-radius: 5px;
+        border: 5px solid #fff;
+        padding: 20px;
+        height: 350px;
+    }
+    
+    .cargos-div{
+        background-color: #fff;
+        color: rgb(97, 32, 158);
+        padding: 40px;
+        border-radius: 7px;
+       
+    }
+    .cargos-lista{
+        padding-top: 20px;
+    }
+    .invisivel img{
+
+        width: 140px;
+        height: 170px;
+        margin-left: 20px;
+        position: absolute;
+        
+        
+    }
+    .invisivel-1 img{
+
+        width: 160px;
+        height: 170px;
+        margin-left: 20px;
+        position: absolute;
+        
+        
+    }
+    .invisivel-2 img{
+
+        width: 250px;
+        height: 250px;
+        margin-left: 20px;
+        position: absolute;
+        
+        
+    }
+    .txt{
+        text-align: center;
+        background-color: rgb(124, 48, 196,0.5) ;
+        padding: 20px;
+        border-radius: 100px;
+        border: 3px solid #fff;
+        margin-bottom: 50px;
+        font-family: 'Kanit', sans-serif;
+    
+    }
+    .txt h3{
+        font-weight: 400;
+        font-size: 18px;
+    
+    }
+    .txt p{
+        font-size: 14px;
+    }
+    .txt img{
+        width: 350px;
+    }
+    .sec-dourado{
+        padding: 20px;
+        font-size: 14px;
+        text-align: center;
+        background-color: rgba(107, 20, 194, 0.90) ;
+        border: 3px solid #fff;
+        margin-left: 60px;
+        margin-right: 60px;
+        margin-bottom: 100px;
+        font-family: 'Kanit', sans-serif;
+    }
+    .sec-dourado h3{
+        padding-top: 20px;
+        font-weight: 400;
+    }
+    .sec-dourado img{
+        width: 220px;
+    }
+    .txt-2{
+        text-align: center;
+        background-color: rgba(89, 8, 165, 0.91) ;
+        border-radius: 100px;
+        border: 3px solid #fff;
+        margin-bottom: 40px;
+        margin-left: 10px;
+        margin-right: 10px;
+        font-family: 'Kanit', sans-serif;
+        padding: 20px;
+     }
+     .txt-2 h3{
+         padding-top: 19px;
+         font-size: 14px;
+         font-weight: 200;
+     }
+     .txt-2 img{
+        width:300px;
+     }
+     .contatos h2{
+        font-size: 22px;
+     }
+     .contatos p{
+        font-size: 13px;
+        background-color:  #fff;
+        width: 130px;
+        padding: 15px;
+        border-radius: 9px;
+        cursor: pointer;
+        border-radius: 7px;
+        color: rgb(97, 32, 158) ;
+        
+    }
+   
+    .destaques{
+        
+        text-align: center;
+        font-size: 13px;
+        border: 3px solid #fff;
+        border-radius: 7px;
+        padding: 50px;
+        background-color: rgb(97, 32, 158,0.95);
+      
+    }
+    .destaque-div{
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 7px;
+    
+    }
+    .destaque-lista{
+        color: rgb(97, 32, 158);
+    }
+     
+    .section-reflexao{
+        padding: 30px;
+        background-color: rgb(124, 48, 196,0.1) ;
+        text-align: center;
+        margin-right: 80px;
+        margin-left: 80px;
+        border: 3px solid #fff;
+        border-radius: 3px;
+        font-family: 'Kanit', sans-serif;
+        font-size: 14px;
+       
+    }
+    .div-reflexao-2 img{
+        width: 300px;
+        cursor: pointer;
+    
+    }
+
+    .div-galeria{
+        display: flex;
+        justify-content: center;
+        gap: 50px;
+    }
+    .div-galeria p{
+        font-size: 14px;
+        background-color: #fff;
+        color:  rgb(97, 32, 158);
+        padding: 20px;
+        border-radius: 7px;
+        cursor: pointer;
+    
+    }
+    .div-galeria  p:hover{
+        background-color: rgb(142, 74, 206);
+        padding: 25px;
+        transition: 0.5s;
+    }
+    .mais-info{
+        font-size: 13px;
+        background-color: rgb(124, 48, 196,0.1) ;
+        padding: 30px;
+        margin-left: 30%;
+        margin-right: 30%;
+        border-radius: 7px;
+        font-weight: 300;
+        color: #fff;
+        font-family: 'Kanit', sans-serif;
+    }
+    footer{
+        text-align: center;
+        display: flex;
+        margin-left: 40%;
+        color: #fff;
+    
+    }
+    .footer-hp{
+        font-size: 15px;
+        padding-top: 40px;
+    }
+    #img-footer{
+        width: 180px;
+       
+        
+    }
+}
+
+
+
+
+
+@media (max-width:620px){
+    .contatos{
+        padding: 35px;
+    }
+    .contatos h2{
+        font-size: 22px;
+     }
+     .contatos p{
+        font-size: 13px;
+        background-color:  #fff;
+        width: 110px;
+        padding: 15px;
+        border-radius: 9px;
+        cursor: pointer;
+        border-radius: 7px;
+        color: rgb(97, 32, 158) ;
+        
+    }
+   
+    .destaques{
+        
+        text-align: center;
+        font-size: 13px;
+        border: 3px solid #fff;
+        border-radius: 7px;
+        padding: 35px;
+        background-color: rgb(97, 32, 158,0.95);
+      
+    }
+    .destaque-div{
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 7px;
+    
+    }
+    .destaque-lista{
+        color: rgb(97, 32, 158);
+    }
+    .section-reflexao{
+        padding: 30px;
+        background-color: rgb(124, 48, 196,0.1) ;
+        text-align: center;
+        margin-right: 50px;
+        margin-left: 50px;
+        border: 3px solid #fff;
+        border-radius: 3px;
+        font-family: 'Kanit', sans-serif;
+        font-size: 14px;
+       
+    }
+    .div-reflexao-2 img{
+        width: 250px;
+        cursor: pointer;
+    
+    }
+}
+
+@media (max-width:591px){
+     .cargos{
+        display: flex;
+        justify-content: space-around;
+        padding-top: 60px;
+       
+    }
+    
+    .cargos-div-img img{
+        background-color:  rgb(76, 23, 122);
+        border-radius: 5px;
+        border: 5px solid #fff;
+        padding: 20px;
+        height: 300px;
+    }
+    
+    .cargos-div{
+        background-color: #fff;
+        color: rgb(97, 32, 158);
+        padding: 30px;
+        border-radius: 7px;
+       
+    }
+    .cargos-lista{
+        padding-top: 10px;
+    }
+
+    .txt{
+        text-align: center;
+        background-color: rgb(124, 48, 196,0.5) ;
+        padding: 30px;
+        border-radius: 100px;
+        border: 3px solid #fff;
+        margin-bottom: 50px;
+        font-family: 'Kanit', sans-serif;
+    
+    }
+    .txt h3{
+        font-weight: 400;
+        font-size: 18px;
+    
+    }
+    .txt p{
+        font-size: 14px;
+    }
+    .txt img{
+        width: 350px;
+    }
+    .contatos{
+        padding: 35px;
+    }
+    .contatos h2{
+        font-size: 22px;
+     }
+     .contatos p{
+        font-size: 13px;
+        background-color:  #fff;
+        width: 110px;
+        padding: 15px;
+        border-radius: 9px;
+        cursor: pointer;
+        border-radius: 7px;
+        color: rgb(97, 32, 158) ;
+        
+    }
+   
+    .destaques{
+        
+        text-align: center;
+        font-size: 13px;
+        border: 3px solid #fff;
+        border-radius: 7px;
+        padding: 35px;
+        background-color: rgb(97, 32, 158,0.95);
+      
+    }
+    .destaque-div{
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 7px;
+    
+    }
+    .destaque-lista{
+        color: rgb(97, 32, 158);
+    }
+    .section-reflexao{
+        padding: 30px;
+        background-color: rgb(124, 48, 196,0.1) ;
+        text-align: center;
+        margin-right: 50px;
+        margin-left: 50px;
+        border: 3px solid #fff;
+        border-radius: 3px;
+        font-family: 'Kanit', sans-serif;
+        font-size: 14px;
+       
+    }
+    .div-reflexao-2 img{
+        width: 250px;
+        cursor: pointer;
+    
+    }
+    .mais-info{
+        font-size: 12px;
+        background-color: rgb(124, 48, 196,0.1) ;
+        padding: 30px;
+        margin-left: 30%;
+        margin-right: 30%;
+        border-radius: 7px;
+        font-weight: 300;
+        color: #fff;
+        font-family: 'Kanit', sans-serif;
+    }
+
+    footer{
+        text-align: center;
+        display: flex;
+        margin-left: 40%;
+        color: #fff;
+    
+    }
+    .footer-hp{
+        font-size: 14px;
+        padding-top: 40px;
+    }
+    .img-div-footer img{
+        
+       width: 10px;
+        
+    }
+}
+
+@media (max-width:531px){
+    .cargos{
+       display: flex;
+       justify-content: space-around;
+       padding-top: 60px;
+      
+   }
+   
+   .cargos-div-img img{
+       background-color:  rgb(76, 23, 122);
+       border-radius: 5px;
+       border: 5px solid #fff;
+       padding: 20px;
+       height: 300px;
+   }
+   
+   .cargos-div{
+       background-color: #fff;
+       color: rgb(97, 32, 158);
+       padding: 30px;
+       border-radius: 7px;
+      
+   }
+   .cargos-lista{
+       padding-top: 10px;
+   }
+   .invisivel img{
+
+    width: 110px;
+    height: 150px;
+    margin-left: 20px;
+    position: absolute;
+    
+    
+}
+.invisivel-1 img{
+
+    width: 110px;
+    height: 110px;
+    right: 23%;
+    position: absolute;
+    
+    
+}
+.invisivel-2 img{
+
+    width: 190px;
+    height: 190px;
+    right: 11%;
+    position: absolute;
+    
+}
+   .txt{
+       text-align: center;
+       background-color: rgb(124, 48, 196,0.5) ;
+       padding: 30px;
+       border-radius: 100px;
+       border: 3px solid #fff;
+       margin-bottom: 50px;
+       font-family: 'Kanit', sans-serif;
+   
+   }
+   .txt h3{
+       font-weight: 400;
+       font-size: 18px;
+   
+   }
+   .txt p{
+       font-size: 14px;
+   }
+   .txt img{
+       width: 350px;
+   }
+   .contatos{
+       padding: 35px;
+   }
+   .contatos h2{
+       font-size: 22px;
+    }
+    .contatos p{
+       font-size: 13px;
+       background-color:  #fff;
+       width: 110px;
+       padding: 15px;
+       border-radius: 9px;
+       cursor: pointer;
+       border-radius: 7px;
+       color: rgb(97, 32, 158) ;
+       
+   }
+  
+   .destaques{
+       
+       text-align: center;
+       font-size: 13px;
+       border: 3px solid #fff;
+       border-radius: 7px;
+       padding: 35px;
+       background-color: rgb(97, 32, 158,0.95);
+     
+   }
+   .destaque-div{
+       background-color: #fff;
+       padding: 20px;
+       border-radius: 7px;
+   
+   }
+   .destaque-lista{
+       color: rgb(97, 32, 158);
+   }
+   .section-reflexao{
+       padding: 30px;
+       background-color: rgb(124, 48, 196,0.1) ;
+       text-align: center;
+       margin-right: 50px;
+       margin-left: 50px;
+       border: 3px solid #fff;
+       border-radius: 3px;
+       font-family: 'Kanit', sans-serif;
+       font-size: 14px;
+      
+   }
+   .div-reflexao-2 img{
+       width: 250px;
+       cursor: pointer;
+   
+   }
+   .mais-info{
+       font-size: 12px;
+       background-color: rgb(124, 48, 196,0.1) ;
+       padding: 30px;
+       margin-left: 30%;
+       margin-right: 30%;
+       border-radius: 7px;
+       font-weight: 300;
+       color: #fff;
+       font-family: 'Kanit', sans-serif;
+   }
+
+   footer{
+       text-align: center;
+       display: flex;
+       margin-left: 40%;
+       color: #fff;
+   
+   }
+   .footer-hp{
+       font-size: 14px;
+       padding-top: 40px;
+   }
+   .img-div-footer img{
+       
+      width: 10px;
+       
+   }
+}
+
+
+@media (max-width:530px){
+    
+    .cabecalho{
+        text-align: center;
+        width: 100%;
+       
+    }
+    
+    .cabecalho-h1 h1{
+        font-family: 'Oswald', sans-serif;
+        background-color: rgb(67, 25, 107);
+        color: #fff;
+        padding: 30px;
+        animation: mudar1 forwards 10s ;
+    }
+    .menu{
+        padding-top: 50px;
+        text-align: center;
+        background-color: rgb(76, 23, 122);
+        padding: 40px;
+    }
+    .menu-opcao{
+        display: flex;
+        justify-content: space-around;
+        gap: 10px;
+    }
+    .menu-opcao p{
+        background-color: #fff;
+        padding: 14px;
+        color: rgb(96, 45, 143);
+        border-radius: 15px;
+        cursor: pointer;
+        transition: 0.7s;
+    }
+    .cargos{
+       display: flex;
+       justify-content: space-around;
+       padding-top: 60px;
+      
+   }
+   
+   .cargos-div-img img{
+       background-color:  rgb(76, 23, 122);
+       border-radius: 5px;
+       border: 5px solid #fff;
+       padding: 20px;
+       height: 260px;
+   }
+   
+   .cargos-div{
+       background-color: #fff;
+       color: rgb(97, 32, 158);
+       padding: 35px;
+       border-radius: 7px;
+       font-size: 10px;
+      
+   }
+   .cargos-lista{
+       padding-top: 10px;
+   }
+
+   .txt{
+       text-align: center;
+       background-color: rgb(124, 48, 196,0.5) ;
+       padding: 30px;
+       border-radius: 100px;
+       border: 3px solid #fff;
+       margin-bottom: 50px;
+       font-family: 'Kanit', sans-serif;
+   
+   }
+   .txt h3{
+       font-weight: 400;
+       font-size: 12px;
+   
+   }
+   .txt p{
+       font-size: 11px;
+   }
+   .txt img{
+       width: 220px;
+   }
+   .sec-dourado{
+    padding: 20px;
+    font-size: 10px;
+    text-align: center;
+    background-color: rgba(107, 20, 194, 0.90) ;
+    border: 3px solid #fff;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 100px;
+    font-family: 'Kanit', sans-serif;
+}
+.sec-dourado h3{
+    padding-top: 20px;
+    font-weight: 400;
+}
+.sec-dourado img{
+    width: 180px;
+}
+.txt-2{
+    text-align: center;
+    background-color: rgba(89, 8, 165, 0.91) ;
+    border-radius: 100px;
+    border: 3px solid #fff;
+    margin-bottom: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: 'Kanit', sans-serif;
+    padding: 20px;
+ }
+ .txt-2 h3{
+     padding-top: 19px;
+     font-size: 13px;
+     font-weight: 200;
+ }
+ .txt-2 img{
+    width:200px;
+ }
+   .section-conteudos{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 150px;
+    gap: 20px;
+}
+   .contatos{
+       padding: 15px;
+
+   }
+   .contatos h2{
+       font-size: 15px;
+    }
+    .contatos p{
+       font-size: 10px;
+       background-color:  #fff;
+       width: 80px;
+       padding: 10px;
+       border-radius: 9px;
+       cursor: pointer;
+       border-radius: 7px;
+       color: rgb(97, 32, 158) ;
+       
+   }
+  
+   .destaques{
+       
+       text-align: center;
+       font-size: 10px;
+       border: 3px solid #fff;
+       border-radius: 7px;
+       padding: 11px;
+       background-color: rgb(97, 32, 158,0.95);
+     
+   }
+   .destaque-div{
+       background-color: #fff;
+       padding: 20px;
+       border-radius: 7px;
+   
+   }
+   .destaque-lista{
+       color: rgb(97, 32, 158);
+   }
+   .section-reflexao{
+       padding: 30px;
+       background-color: rgb(124, 48, 196,0.1) ;
+       text-align: center;
+       margin-right: 20px;
+       margin-left: 20px;
+       border: 3px solid #fff;
+       border-radius: 3px;
+       font-family: 'Kanit', sans-serif;
+       font-size: 10px;
+      
+   }
+   .section-reflexao h2{
+    font-weight: 400;
+   }
+   .div-reflexao-2 img{
+       width: 150px;
+       cursor: pointer;
+   
+   }
+   .div-galeria{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.div-galeria p{
+    font-size: 10px;
+    background-color: #fff;
+    color:  rgb(97, 32, 158);
+    padding: 14px;
+    border-radius: 7px;
+    cursor: pointer;
+
+}
+.div-galeria  p:hover{
+    background-color: rgb(142, 74, 206);
+    padding: 25px;
+    transition: 0.5s;
+}
+   .mais-info{
+       font-size: 9px;
+       background-color: rgb(124, 48, 196,0.1) ;
+       padding: 30px;
+       margin-left: 27%;
+       margin-right: 27%;
+       border-radius: 7px;
+       font-weight: 300;
+       color: #fff;
+       font-family: 'Kanit', sans-serif;
+   }
+   .mais-info h2{
+    font-size: 13px;
+    font-weight: 400;
+   }
+
+   footer{
+       text-align: center;
+       display: flex;
+       color: #fff;
+      
+   
+   }
+   .footer-hp{
+       font-size: 12px;
+       padding-top: 40px;
+   }
+   footer #img-footer{
+        width: 110px;
+   }
+
+       
+       
+   
+}
+@media (max-width:459px){
+    
+    .cabecalho{
+        text-align: center;
+        width: 100%;
+       
+    }
+    
+    .cabecalho-h1 h1{
+        font-family: 'Oswald', sans-serif;
+        background-color: rgb(67, 25, 107);
+        color: #fff;
+        padding: 30px;
+        animation: mudar1 forwards 10s ;
+    }
+    .menu{
+        padding-top: 50px;
+        text-align: center;
+        background-color: rgb(76, 23, 122);
+        padding: 40px;
+    }
+    .menu-opcao{
+        display: flex;
+        justify-content: space-around;
+        gap: 10px;
+    }
+    .menu-opcao p{
+        background-color: #fff;
+        padding: 14px;
+        color: rgb(96, 45, 143);
+        border-radius: 15px;
+        cursor: pointer;
+        transition: 0.7s;
+    }
+    .cargos{
+       display: flex;
+       justify-content: space-around;
+       padding-top: 60px;
+      
+   }
+   
+   .cargos-div-img img{
+       background-color:  rgb(76, 23, 122);
+       border-radius: 5px;
+       border: 5px solid #fff;
+       padding: 20px;
+       height: 200px;
+   }
+   
+   .cargos-div{
+       background-color: #fff;
+       color: rgb(97, 32, 158);
+       padding: 20px;
+       border-radius: 7px;
+       font-size: 10px;
+      
+   }
+   .cargos-lista{
+       padding-top: 10px;
+   }
+   .invisivel img{
+    
+    width: 90px;
+    height: 130px;
+    margin-left: 20px;
+    position: absolute;
+    
+    
+}
+.invisivel-1 img{
+
+    width: 100px;
+    height: 100px;
+    
+}
+.invisivel-2 img{
+
+    width: 190px;
+    height: 190px;
+    left: 45%;
+    position: absolute;
+    
+}
+   .txt{
+       text-align: center;
+       background-color: rgb(124, 48, 196,0.5) ;
+       padding: 30px;
+       border-radius: 100px;
+       border: 3px solid #fff;
+       margin-bottom: 50px;
+       font-family: 'Kanit', sans-serif;
+   
+   }
+   .txt h3{
+       font-weight: 400;
+       font-size: 12px;
+   
+   }
+   .txt p{
+       font-size: 11px;
+   }
+   .txt img{
+       width: 220px;
+   }
+   .sec-dourado{
+    padding: 20px;
+    font-size: 10px;
+    text-align: center;
+    background-color: rgba(107, 20, 194, 0.90) ;
+    border: 3px solid #fff;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 100px;
+    font-family: 'Kanit', sans-serif;
+}
+.sec-dourado h3{
+    padding-top: 20px;
+    font-weight: 400;
+}
+.sec-dourado img{
+    width: 180px;
+}
+.txt-2{
+    text-align: center;
+    background-color: rgba(89, 8, 165, 0.91) ;
+    border-radius: 100px;
+    border: 3px solid #fff;
+    margin-bottom: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: 'Kanit', sans-serif;
+    padding: 20px;
+ }
+ .txt-2 h3{
+     padding-top: 19px;
+     font-size: 13px;
+     font-weight: 200;
+ }
+ .txt-2 img{
+    width:200px;
+ }
+   .section-conteudos{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 150px;
+    gap: 20px;
+}
+   .contatos{
+       padding: 15px;
+
+   }
+   .contatos h2{
+       font-size: 15px;
+    }
+    .contatos p{
+       font-size: 10px;
+       background-color:  #fff;
+       width: 80px;
+       padding: 10px;
+       border-radius: 9px;
+       cursor: pointer;
+       border-radius: 7px;
+       color: rgb(97, 32, 158) ;
+       
+   }
+  
+   .destaques{
+       
+       text-align: center;
+       font-size: 10px;
+       border: 3px solid #fff;
+       border-radius: 7px;
+       padding: 11px;
+       background-color: rgb(97, 32, 158,0.95);
+     
+   }
+   .destaque-div{
+       background-color: #fff;
+       padding: 20px;
+       border-radius: 7px;
+   
+   }
+   .destaque-lista{
+       color: rgb(97, 32, 158);
+   }
+   .section-reflexao{
+       padding: 30px;
+       background-color: rgb(124, 48, 196,0.1) ;
+       text-align: center;
+       margin-right: 20px;
+       margin-left: 20px;
+       border: 3px solid #fff;
+       border-radius: 3px;
+       font-family: 'Kanit', sans-serif;
+       font-size: 10px;
+      
+   }
+   .section-reflexao h2{
+    font-weight: 400;
+   }
+   .div-reflexao-2 img{
+       width: 150px;
+       cursor: pointer;
+   
+   }
+   .div-galeria{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.div-galeria p{
+    font-size: 10px;
+    background-color: #fff;
+    color:  rgb(97, 32, 158);
+    padding: 14px;
+    border-radius: 7px;
+    cursor: pointer;
+
+}
+.div-galeria  p:hover{
+    background-color: rgb(142, 74, 206);
+    padding: 25px;
+    transition: 0.5s;
+}
+   .mais-info{
+       font-size: 9px;
+       background-color: rgb(124, 48, 196,0.1) ;
+       padding: 30px;
+       margin-left: 27%;
+       margin-right: 27%;
+       border-radius: 7px;
+       font-weight: 300;
+       color: #fff;
+       font-family: 'Kanit', sans-serif;
+   }
+   .mais-info h2{
+    font-size: 13px;
+    font-weight: 400;
+   }
+
+   footer{
+       text-align: center;
+       display: flex;
+       color: #fff;
+      
+   
+   }
+   .footer-hp{
+       font-size: 12px;
+       padding-top: 40px;
+   }
+   footer #img-footer{
+        width: 110px;
+   }
+
+       
+       
+   
+}
+
+
+@media (max-width:395px){
+    
+    .cabecalho{
+        text-align: center;
+        width: 100%;
+       
+    }
+    
+    .cabecalho-h1 h1{
+        font-family: 'Oswald', sans-serif;
+        background-color: rgb(67, 25, 107);
+        color: #fff;
+        font-size: 17px;
+        padding: 30px;
+        animation: mudar1 forwards 10s ;
+    }
+    .menu{
+        padding-top: 50px;
+        text-align: center;
+        background-color: rgb(76, 23, 122);
+        padding: 40px;
+    }
+    .menu-opcao{
+        display: flex;
+        justify-content: space-around;
+        gap: 10px;
+    }
+    .menu-opcao p{
+        background-color: #fff;
+        padding: 14px;
+        color: rgb(96, 45, 143);
+        border-radius: 15px;
+        cursor: pointer;
+        transition: 0.7s;
+        font-size: 13px;
+    }
+    .cargos{
+       display: flex;
+       justify-content: space-around;
+       padding-top: 60px;
+      
+   }
+   
+   .cargos-div-img img{
+       background-color:  rgb(76, 23, 122);
+       border-radius: 5px;
+       border: 5px solid #fff;
+       padding: 20px;
+       height: 200px;
+   }
+   
+   .cargos-div{
+       background-color: #fff;
+       color: rgb(97, 32, 158);
+       padding: 20px;
+       border-radius: 7px;
+       font-size: 10px;
+      
+   }
+   .cargos-lista{
+       padding-top: 10px;
+   }
+
+   .txt{
+       text-align: center;
+       background-color: rgb(124, 48, 196,0.5) ;
+       padding: 30px;
+       border-radius: 100px;
+       border: 3px solid #fff;
+       margin-bottom: 50px;
+       font-family: 'Kanit', sans-serif;
+   
+   }
+   .txt h3{
+       font-weight: 400;
+       font-size: 10px;
+   
+   }
+   .txt p{
+       font-size: 9px;
+   }
+   .txt img{
+       width: 220px;
+   }
+   .sec-dourado{
+    padding: 20px;
+    font-size: 10px;
+    text-align: center;
+    background-color: rgba(107, 20, 194, 0.90) ;
+    border: 3px solid #fff;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 100px;
+    font-family: 'Kanit', sans-serif;
+}
+.sec-dourado h3{
+    padding-top: 20px;
+    font-weight: 400;
+}
+.sec-dourado img{
+    width: 180px;
+}
+.txt-2{
+    text-align: center;
+    background-color: rgba(89, 8, 165, 0.91) ;
+    border-radius: 100px;
+    border: 3px solid #fff;
+    margin-bottom: 40px;
+    margin-left: 9px;
+    margin-right: 9px;
+    font-family: 'Kanit', sans-serif;
+    padding: 20px;
+ }
+ .txt-2 h3{
+     padding-top: 19px;
+     font-size: 10px;
+     font-weight: 200;
+ }
+ .txt-2 img{
+    width:200px;
+ }
+   .section-conteudos{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 150px;
+    gap: 20px;
+}
+   .contatos{
+       padding: 15px;
+
+   }
+   .contatos h2{
+       font-size: 15px;
+    }
+    .contatos p{
+       font-size: 10px;
+       background-color:  #fff;
+       width: 80px;
+       padding: 10px;
+       border-radius: 9px;
+       cursor: pointer;
+       border-radius: 7px;
+       color: rgb(97, 32, 158) ;
+       
+   }
+  
+   .destaques{
+       
+       text-align: center;
+       font-size: 10px;
+       border: 3px solid #fff;
+       border-radius: 7px;
+       padding: 11px;
+       background-color: rgb(97, 32, 158,0.95);
+     
+   }
+   .destaque-div{
+       background-color: #fff;
+       padding: 20px;
+       border-radius: 7px;
+   
+   }
+   .destaque-lista{
+       color: rgb(97, 32, 158);
+   }
+   .section-reflexao{
+       padding: 30px;
+       background-color: rgb(124, 48, 196,0.1) ;
+       text-align: center;
+       margin-right: 20px;
+       margin-left: 20px;
+       border: 3px solid #fff;
+       border-radius: 3px;
+       font-family: 'Kanit', sans-serif;
+       font-size: 10px;
+      
+   }
+   .section-reflexao h2{
+    font-weight: 400;
+   }
+   .div-reflexao-2 img{
+       width: 150px;
+       cursor: pointer;
+   
+   }
+   .div-galeria{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.div-galeria p{
+    font-size: 10px;
+    background-color: #fff;
+    color:  rgb(97, 32, 158);
+    padding: 14px;
+    border-radius: 7px;
+    cursor: pointer;
+
+}
+.div-galeria  p:hover{
+    background-color: rgb(142, 74, 206);
+    padding: 25px;
+    transition: 0.5s;
+}
+   .mais-info{
+       font-size: 9px;
+       background-color: rgb(124, 48, 196,0.1) ;
+       padding: 30px;
+       margin-left: 27%;
+       margin-right: 27%;
+       border-radius: 7px;
+       font-weight: 300;
+       color: #fff;
+       font-family: 'Kanit', sans-serif;
+   }
+   .mais-info h2{
+    font-size: 13px;
+    font-weight: 400;
+   }
+
+   footer{
+       text-align: center;
+       display: flex;
+       color: #fff;
+      
+   
+   }
+   .footer-hp{
+       font-size: 12px;
+       padding-top: 40px;
+   }
+   footer #img-footer{
+        width: 110px;
+   }
+
+       
+       
+   
+}
+
+
+
+
+@media (max-width:362px){
+    
+    .cabecalho{
+        text-align: center;
+        width: 100%;
+       
+    }
+    
+    .cabecalho-h1 h1{
+        font-family: 'Oswald', sans-serif;
+        background-color: rgb(67, 25, 107);
+        color: #fff;
+        font-size: 15px;
+        font-weight: 400;
+        padding: 30px;
+        animation: mudar1 forwards 10s ;
+    }
+    .menu{
+        padding-top: 50px;
+        text-align: center;
+        background-color: rgb(76, 23, 122);
+        padding: 40px;
+    }
+    .menu-opcao{
+        display: flex;
+        justify-content: space-around;
+        gap: 10px;
+    }
+    .menu-opcao p{
+        background-color: #fff;
+        padding: 14px;
+        color: rgb(96, 45, 143);
+        border-radius: 15px;
+        cursor: pointer;
+        transition: 0.7s;
+        font-size: 10px;
+    }
+    .cargos{
+       display: flex;
+       justify-content: space-around;
+       padding-top: 60px;
+       gap: 10px;
+      
+   }
+   
+   .cargos-div-img img{
+       background-color:  rgb(76, 23, 122);
+       border-radius: 5px;
+       border: 5px solid #fff;
+       padding: 5px;
+       height: 130px;
+   }
+   
+   .cargos-div{
+       background-color: #fff;
+       color: rgb(97, 32, 158);
+       padding: 20px;
+       border-radius: 7px;
+       font-size: 10px;
+      
+   }
+   .cargos-lista{
+       padding-top: 1px;
+   }
+   .invisivel img{
+    
+    width: 80px;
+    height: 110px;
+    margin-left: 20px;
+    position: absolute;
+    
+    
+}
+.invisivel-1 img{
+
+    width: 90px;
+    height: 90px;
+    left: 50%;
+}
+.invisivel-2 img{
+
+    width: 160px;
+    height: 140px;
+    left: 45%;
+    position: absolute;
+    
+}
+   .txt{
+       text-align: center;
+       background-color: rgb(124, 48, 196,0.5) ;
+       padding: 30px;
+       border-radius: 100px;
+       border: 3px solid #fff;
+       margin-bottom: 50px;
+       font-family: 'Kanit', sans-serif;
+      
+   
+   }
+   .txt h3{
+       font-weight: 400;
+       font-size: 8px;
+   
+   }
+   .txt p{
+       font-size: 9px;
+   }
+   .txt img{
+       width: 120px;
+   }
+   .sec-dourado{
+    padding: 20px;
+    font-size: 8px;
+    text-align: center;
+    background-color: rgba(107, 20, 194, 0.90) ;
+    border: 3px solid #fff;
+    margin-left: 1px;
+    margin-right: 1px;
+    margin-bottom: 100px;
+    font-family: 'Kanit', sans-serif;
+}
+.sec-dourado h3{
+    padding-top: 20px;
+    font-weight: 400;
+}
+.sec-dourado img{
+    width: 120px;
+}
+.txt-2{
+    text-align: center;
+    background-color: rgba(89, 8, 165, 0.91) ;
+    border-radius: 100px;
+    border: 3px solid #fff;
+    margin-bottom: 40px;
+    margin-left: 9px;
+    margin-right: 9px;
+    font-family: 'Kanit', sans-serif;
+    padding: 20px;
+ }
+ .txt-2 h3{
+     padding-top: 19px;
+     font-size: 9px;
+     font-weight: 200;
+ }
+ .txt-2 img{
+    width:120px;
+ }
+   .section-conteudos{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 150px;
+    gap: 10px;
+}
+   .contatos{
+       padding: 15px;
+
+   }
+   .contatos h2{
+       font-size: 15px;
+    }
+    .contatos p{
+       font-size: 10px;
+       background-color:  #fff;
+       width: 80px;
+       padding: 10px;
+       border-radius: 9px;
+       cursor: pointer;
+       border-radius: 7px;
+       color: rgb(97, 32, 158) ;
+       
+   }
+  
+   .destaques{
+       
+       text-align: center;
+       font-size: 10px;
+       border: 3px solid #fff;
+       border-radius: 7px;
+       padding: 11px;
+       background-color: rgb(97, 32, 158,0.95);
+     
+   }
+   .destaque-div{
+       background-color: #fff;
+       padding: 20px;
+       border-radius: 7px;
+   
+   }
+   .destaque-lista{
+       color: rgb(97, 32, 158);
+   }
+   .section-reflexao{
+       padding: 30px;
+       background-color: rgb(124, 48, 196,0.1) ;
+       text-align: center;
+       margin-right: 1px;
+       margin-left: 1px;
+       border: 3px solid #fff;
+       border-radius: 3px;
+       font-family: 'Kanit', sans-serif;
+       font-size: 8px;
+      
+   }
+   .section-reflexao h2{
+    font-weight: 400;
+   }
+   .div-reflexao-2 img{
+        padding-top: 10px;
+       width: 100px;
+       cursor: pointer;
+   
+   }
+   .div-galeria{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.div-galeria p{
+    font-size: 10px;
+    background-color: #fff;
+    color:  rgb(97, 32, 158);
+    padding: 14px;
+    border-radius: 7px;
+    cursor: pointer;
+
+}
+.div-galeria  p:hover{
+    background-color: rgb(142, 74, 206);
+    padding: 25px;
+    transition: 0.5s;
+}
+.mais-info{
+       font-size: 9px;
+       background-color: rgb(124, 48, 196,0.1) ;
+       padding: 30px;
+       margin-left: 10%;
+       margin-right: 10%;
+       border-radius: 7px;
+       font-weight: 300;
+       color: #fff;
+       font-family: 'Kanit', sans-serif;
+   }
+   .mais-info h2{
+    font-size: 13px;
+    font-weight: 400;
+   }
+
+   footer{
+       text-align: center;
+       display: flex;
+       color: #fff;
+      
+   
+   }
+   .footer-hp{
+       font-size: 8px;
+       padding-top: 40px;
+   }
+   footer #img-footer{
+        width: 90px;
+   }
+
+       
+       
+   
+}
+
+
+
+
