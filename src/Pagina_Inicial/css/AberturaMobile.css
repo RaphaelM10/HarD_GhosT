@@ -1,0 +1,594 @@
+@media(max-width:1300px){
+    body{
+        overflow-x: hidden;
+        font-family: 'Oswald', sans-serif;
+        background-image: url("../img/fundo3.jpg");
+        background-repeat: no-repeat;
+        background-position: center ;
+        background-size: cover;
+    }
+    .abert{
+        margin: 100px;
+    }
+    .main-abertura{
+        text-align: center;
+        padding-top: 20px;
+        color: #fff;
+        background-color: rgb(87, 43, 128);
+        border-radius: 8px;
+        margin: 10px 200px 30px 200px;
+        border: 3px solid #fff;
+        
+    }
+    .main-abertura h1{
+        transition: 0.8s;
+        animation: piscar 12s forwards;
+    }
+   
+    .main-abertura img{
+        transition: 1s;
+        animation: aumento 5s infinite;
+    }
+   
+    .main-abertura p{
+        background-color: #fff;
+        padding: 30px;
+        color: rgb(87, 43, 128);
+        font-family: 'kanit',sans-serif;
+    }
+    .main-abertura p:hover{
+        box-shadow: 1px 1px 1px 1px black;
+        cursor: pointer;
+        font-size: 18px;
+        transition: 1s;
+        border-radius: 5px;
+        animation: mouse forwards 6s;
+    }
+    .main-abertura h3{
+        font-weight: 400;
+        font-size: 19px;
+        padding-bottom: 20px;
+    
+    }
+ 
+    
+}
+
+
+
+@media(max-width:1075px){
+    .main-abertura{
+        text-align: center;
+        padding-top: 20px;
+        color: #fff;
+        background-color: rgb(87, 43, 128);
+        border-radius: 8px;
+        margin: 10px 170px 30px 170px;
+        border: 3px solid #fff;
+    }
+}
+
+
+
+
+@media(max-width:988px){
+    .main-abertura{
+        text-align: center;
+        padding-top: 20px;
+        color: #fff;
+        background-color: rgb(87, 43, 128);
+        border-radius: 8px;
+        margin: 10px 150px 30px 150px;
+        border: 3px solid #fff;
+    }
+}
+
+
+
+@media(max-width:957px){
+    .main-abertura{
+        text-align: center;
+        padding-top: 20px;
+        color: #fff;
+        background-color: rgb(87, 43, 128);
+        border-radius: 8px;
+        margin: 10px 120px 30px 120px;
+        border: 3px solid #fff;
+    }
+}
+
+
+@media(max-width:836px){
+    .main-abertura{
+        text-align: center;
+        padding-top: 20px;
+        color: #fff;
+        background-color: rgb(87, 43, 128);
+        border-radius: 8px;
+        margin: 10px 100px 30px 100px;
+        border: 3px solid #fff;
+    }
+    .main-abertura h1{
+        font-size: 27px;
+        transition: 0.8s;
+        animation: piscar 12s forwards;
+    }
+   
+    .main-abertura img{
+        width: 370px;
+        transition: 1s;
+        animation: aumento 5s infinite;
+    }
+   
+    .main-abertura p{
+        background-color: #fff;
+        padding: 30px;
+        color: rgb(87, 43, 128);
+        font-family: 'kanit',sans-serif;
+    }
+    .main-abertura p:hover{
+        box-shadow: 1px 1px 1px 1px black;
+        cursor: pointer;
+        font-size: 18px;
+        transition: 1s;
+        border-radius: 5px;
+        animation: mouse forwards 6s;
+    }
+    .main-abertura h3{
+        font-weight: 400;
+        font-size: 19px;
+        padding-bottom: 20px;
+    
+    }
+ 
+}
+
+
+
+
+@media(max-width:761px){
+    .main-abertura{
+        text-align: center;
+        padding-top: 20px;
+        color: #fff;
+        background-color: rgb(87, 43, 128);
+        border-radius: 8px;
+        margin: 10px 70px 30px 70px;
+        border: 3px solid #fff;
+    }
+    .main-abertura h1{
+        font-size: 27px;
+        transition: 0.8s;
+        animation: piscar 12s forwards;
+    }
+   
+    .main-abertura img{
+        width: 370px;
+        transition: 1s;
+        animation: aumento 5s infinite;
+    }
+   
+    .main-abertura p{
+        background-color: #fff;
+        padding: 30px;
+        color: rgb(87, 43, 128);
+        font-family: 'kanit',sans-serif;
+    }
+    .main-abertura p:hover{
+        box-shadow: 1px 1px 1px 1px black;
+        cursor: pointer;
+        font-size: 18px;
+        transition: 1s;
+        border-radius: 5px;
+        animation: mouse forwards 6s;
+    }
+    .main-abertura h3{
+        font-weight: 400;
+        font-size: 19px;
+        padding-bottom: 20px;
+    
+    }
+ 
+}
+
+
+
+@media(max-width:688px){
+    .abert{
+        padding-top: 30px;
+        padding-bottom: 50px;
+    }
+    
+    .main-abertura{
+        text-align: center;
+        padding-top: 20px;
+        color: #fff;
+        background-color: rgb(87, 43, 128);
+        border-radius: 8px;
+        margin: 10px 50px 30px 50px;
+        border: 3px solid #fff;
+       
+    }
+    .main-abertura h1{
+        font-size: 27px;
+        transition: 0.8s;
+        animation: piscar 12s forwards;
+    }
+   
+    .main-abertura img{
+        width: 320px;
+        transition: 1s;
+        animation: aumento 5s infinite;
+    }
+   
+    .main-abertura p{
+        background-color: #fff;
+        padding: 30px;
+        color: rgb(87, 43, 128);
+        font-family: 'kanit',sans-serif;
+    }
+    .main-abertura p:hover{
+        box-shadow: 1px 1px 1px 1px black;
+        cursor: pointer;
+        font-size: 18px;
+        transition: 1s;
+        border-radius: 5px;
+        animation: mouse forwards 6s;
+    }
+    .main-abertura h3{
+        font-weight: 400;
+        font-size: 19px;
+        padding-bottom: 20px;
+    
+    }
+ 
+}
+
+
+
+
+
+
+@media(max-width:663px){
+    
+    .main-abertura{
+        text-align: center;
+        padding-top: 20px;
+        color: #fff;
+        background-color: rgb(87, 43, 128);
+        border-radius: 8px;
+        margin: 10px 20px 10px 20px;
+        border: 3px solid #fff;
+       
+    }
+   
+    
+}
+
+
+
+@media(max-width:539px){
+    .abert{
+        padding-top: 43px;
+        padding-bottom: 80px;
+    }
+    
+    .main-abertura{
+        text-align: center;
+        padding-top: 20px;
+        color: #fff;
+        background-color: rgb(87, 43, 128);
+        border-radius: 8px;
+        margin: 10px 20px 10px 20px;
+        border: 3px solid #fff;
+       
+    }
+    .main-abertura h1{
+        font-size: 24px;
+        transition: 0.8s;
+        animation: piscar 12s forwards;
+    }
+   
+    .main-abertura img{
+        width: 280px;
+        transition: 1s;
+        animation: aumento 5s infinite;
+    }
+   
+    .main-abertura p{
+        background-color: #fff;
+        padding: 30px;
+        color: rgb(87, 43, 128);
+        font-family: 'kanit',sans-serif;
+    }
+    .main-abertura p:hover{
+        box-shadow: 1px 1px 1px 1px black;
+        cursor: pointer;
+        font-size: 16px;
+        transition: 1s;
+        border-radius: 5px;
+        animation: mouse forwards 6s;
+    }
+    .main-abertura h3{
+        font-weight: 400;
+        font-size: 15px;
+        padding-bottom: 20px;
+    
+    }
+ 
+}
+
+
+
+@media(max-width:493px){
+    .abert{
+        padding-top: 75px;
+        padding-bottom: 100px;
+    }
+    
+    .main-abertura{
+        text-align: center;
+        padding-top: 20px;
+        color: #fff;
+        background-color: rgb(87, 43, 128);
+        border-radius: 8px;
+        margin: 10px 10px 10px 10px;
+        border: 3px solid #fff;
+       
+    }
+    .main-abertura h1{
+        font-size: 22px;
+        transition: 0.8s;
+        animation: piscar 12s forwards;
+    }
+   
+    .main-abertura img{
+        width: 240px;
+        transition: 1s;
+        animation: aumento 5s infinite;
+    }
+   
+    .main-abertura p{
+        background-color: #fff;
+        padding: 30px;
+        color: rgb(87, 43, 128);
+        font-family: 'kanit',sans-serif;
+    }
+    .main-abertura p:hover{
+        box-shadow: 1px 1px 1px 1px black;
+        cursor: pointer;
+        font-size: 16px;
+        transition: 1s;
+        border-radius: 5px;
+        animation: mouse forwards 6s;
+    }
+    .main-abertura h3{
+        font-weight: 400;
+        font-size: 15px;
+        padding-bottom: 20px;
+    
+    }
+ 
+}
+
+
+@media(max-width:416px){
+    .abert{
+        margin-top: 50px;
+        margin-bottom: 80px;
+    }
+    
+    .main-abertura{
+        text-align: center;
+        padding-top: 20px;
+        color: #fff;
+        background-color: rgb(87, 43, 128);
+        border-radius: 8px;
+        margin: 10px 10px 10px 10px;
+        border: 3px solid #fff;
+       
+    }
+    .main-abertura h1{
+        font-size: 18px;
+        transition: 0.8s;
+        animation: piscar 12s forwards;
+    }
+   
+    .main-abertura img{
+        width: 220px;
+        transition: 1s;
+        animation: aumento 5s infinite;
+    }
+   
+    .main-abertura p{
+        background-color: #fff;
+        padding: 30px;
+        color: rgb(87, 43, 128);
+        font-family: 'kanit',sans-serif;
+        font-size: 14px;
+    }
+    .main-abertura p:hover{
+        box-shadow: 1px 1px 1px 1px black;
+        cursor: pointer;
+        transition: 1s;
+        border-radius: 5px;
+        animation: mouse forwards 6s;
+    }
+    .main-abertura h3{
+        font-weight: 400;
+        font-size: 15px;
+        padding-bottom: 20px;
+    
+    }
+ 
+}
+
+
+
+
+
+@media(max-width:369px){
+    .abert{
+        margin-top: 40px;
+        padding-bottom: 160px;
+
+    }
+    
+    .main-abertura{
+        text-align: center;
+        padding-top: 15px;
+        color: #fff;
+        background-color: rgb(87, 43, 128);
+        border-radius: 8px;
+        margin: 10px 10px 10px 10px;
+        border: 3px solid #fff;
+       
+    }
+    .main-abertura h1{
+        font-size: 16px;
+        transition: 0.8s;
+        animation: piscar 12s forwards;
+    }
+   
+    .main-abertura img{
+        width: 190px;
+        transition: 1s;
+        animation: aumento 5s infinite;
+    }
+   
+    .main-abertura p{
+        background-color: #fff;
+        padding: 20px;
+        color: rgb(87, 43, 128);
+        font-family: 'kanit',sans-serif;
+        font-size: 14px;
+    }
+    .main-abertura p:hover{
+        box-shadow: 1px 1px 1px 1px black;
+        cursor: pointer;
+        transition: 1s;
+        border-radius: 5px;
+        animation: mouse forwards 6s;
+    }
+    .main-abertura h3{
+        font-weight: 400;
+        font-size: 13px;
+        padding-bottom: 20px;
+    
+    }
+ 
+}
+
+
+
+
+@media(max-width:316px){
+    .abert{
+        margin: 90px;
+        overflow-y: hidden;
+    }
+    
+    .main-abertura{
+        text-align: center;
+        padding-top: 15px;
+        color: #fff;
+        background-color: rgb(87, 43, 128);
+        border-radius: 8px;
+        margin: 10px 10px 10px 10px;
+        border: 3px solid #fff;
+       
+    }
+    .main-abertura h1{
+        font-size: 16px;
+        transition: 0.8s;
+        animation: piscar 12s forwards;
+    }
+   
+    .main-abertura img{
+        width: 190px;
+        transition: 1s;
+        animation: aumento 5s infinite;
+    }
+   
+    .main-abertura p{
+        background-color: #fff;
+        padding: 20px;
+        color: rgb(87, 43, 128);
+        font-family: 'kanit',sans-serif;
+        font-size: 14px;
+    }
+    .main-abertura p:hover{
+        box-shadow: 1px 1px 1px 1px black;
+        cursor: pointer;
+        transition: 1s;
+        border-radius: 5px;
+        animation: mouse forwards 6s;
+    }
+    .main-abertura h3{
+        font-weight: 400;
+        font-size: 13px;
+        padding-bottom: 20px;
+    
+    }
+ 
+}
+
+
+
+
+
+@media(max-width:277px){
+    .abert{
+        margin: 100px;
+    }
+    .abert{
+        margin-top: 50px;
+        margin-bottom: 45px;
+        overflow-y: hidden;
+    }
+    
+    .main-abertura{
+        text-align: center;
+        padding-top: 15px;
+        color: #fff;
+        background-color: rgb(87, 43, 128);
+        border-radius: 8px;
+        margin: 10px 10px 10px 10px;
+        border: 3px solid #fff;
+       
+    }
+    .main-abertura h1{
+        font-size: 14px;
+        font-weight: 400;
+        transition: 0.8s;
+        animation: piscar 12s forwards;
+    }
+   
+    .main-abertura img{
+        width: 140px;
+        transition: 1s;
+        animation: aumento 5s infinite;
+    }
+   
+    .main-abertura p{
+        background-color: #fff;
+        padding: 15px;
+        color: rgb(87, 43, 128);
+        font-family: 'kanit',sans-serif;
+        font-size: 13px;
+    }
+    .main-abertura p:hover{
+        box-shadow: 1px 1px 1px 1px black;
+        cursor: pointer;
+        transition: 1s;
+        border-radius: 5px;
+        animation: mouse forwards 6s;
+    }
+    .main-abertura h3{
+        font-weight: 400;
+        font-size: 12px;
+        padding-bottom: 20px;
+    
+    }
+ 
+}

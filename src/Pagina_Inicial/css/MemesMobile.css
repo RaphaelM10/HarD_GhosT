@@ -1,0 +1,240 @@
+
+@media (max-width:510px){
+    .cabecalho-h1-m h1{
+        font-family: 'Oswald', sans-serif;
+        background-color: rgb(67, 25, 107);
+        color: #fff;
+        padding: 30px;
+        animation: mudar1 forwards 10s ;
+        font-size: 18px;
+    }
+    .menu-m{
+        padding-top: 50px;
+        text-align: center;
+        background-color: rgb(76, 23, 122);
+        padding: 40px;
+     
+    }
+    .menu-opcao-m{
+        display: flex;
+        justify-content: space-around;
+    }
+    .menu-opcao-m p {
+        background-color: #fff;
+        padding: 17px;
+        color: rgb(96, 45, 143);
+        border-radius: 15px;
+        cursor: pointer;
+        transition: 0.7s;
+        font-size: 14px;
+    }
+    main .div-h2{
+        text-align: center;
+    }
+    
+    main .div-h2 h2{
+        background-color: #fff;
+        padding: 50px;
+        color: rgb(67, 25, 107);
+        font-size: 16px;
+    }
+
+
+    .section-botao-m div p{
+        font-size: 16px;
+        color: #fff;
+        background-color: rgb(124, 48, 196,0.4);
+        padding: 20px;
+        cursor: pointer;
+     }
+     .section-botao-m div p:hover{
+    
+        border-radius: 10px;
+        transition: 0.1s;
+        
+     }
+}
+
+
+
+
+
+
+@media (max-width:426px){
+    .cabecalho-h1-m h1{
+        font-family: 'Oswald', sans-serif;
+        background-color: rgb(67, 25, 107);
+        color: #fff;
+        padding: 30px;
+        animation: mudar1 forwards 10s ;
+        font-weight: 400;
+    }
+    .menu-m{
+        padding-top: 50px;
+        text-align: center;
+        background-color: rgb(76, 23, 122);
+        padding: 40px;
+     
+    }
+    .menu-opcao-m{
+        display: flex;
+        justify-content: space-around;
+        gap: 7px;
+    }
+    .menu-opcao-m p {
+        background-color: #fff;
+        padding: 14px;
+        color: rgb(96, 45, 143);
+        border-radius: 15px;
+        cursor: pointer;
+        transition: 0.7s;
+        font-size: 14px;
+    }
+    main .div-h2{
+        text-align: center;
+    }
+    
+    main .div-h2 h2{
+        background-color: #fff;
+        padding: 50px;
+        color: rgb(67, 25, 107);
+        font-size: 19px;
+    }
+
+
+    .section-botao-m div p{
+        font-size: 14px;
+        color: #fff;
+        background-color: rgb(124, 48, 196,0.4);
+        padding: 20px;
+        cursor: pointer;
+     }
+     .section-botao-m div p:hover{
+    
+        border-radius: 10px;
+        transition: 0.1s;
+        
+     }
+}
+
+
+
+
+
+@media (max-width:298px){
+    .cabecalho-h1-m h1{
+        font-family: 'Oswald', sans-serif;
+        background-color: rgb(67, 25, 107);
+        color: #fff;
+        padding: 30px;
+        animation: mudar1 forwards 10s ;
+        font-size: 14px;
+    }
+    .menu-m{
+        padding-top: 50px;
+        text-align: center;
+        background-color: rgb(76, 23, 122);
+        padding: 40px;
+     
+    }
+    .menu-opcao-m{
+        display: flex;
+        justify-content: space-around;
+        gap: 9px;
+    }
+    .menu-opcao-m p {
+        background-color: #fff;
+        padding: 14px;
+        color: rgb(96, 45, 143);
+        border-radius: 15px;
+        cursor: pointer;
+        transition: 0.7s;
+        font-size: 12px;
+    }
+    main .div-h2{
+        text-align: center;
+    }
+    
+    main .div-h2 h2{
+        background-color: #fff;
+        padding: 50px;
+        color: rgb(67, 25, 107);
+        font-size: 12px;
+    }
+
+
+    .section-botao-m div p{
+        font-size: 12px;
+        color: #fff;
+        background-color: rgb(124, 48, 196,0.4);
+        padding: 20px;
+        cursor: pointer;
+     }
+     .section-botao-m div p:hover{
+    
+        border-radius: 10px;
+        transition: 0.1s;
+        
+     }
+}
+
+
+
+
+
+@media (max-width:271px){
+    .cabecalho-h1-m h1{
+        font-family: 'Oswald', sans-serif;
+        background-color: rgb(67, 25, 107);
+        color: #fff;
+        padding: 30px;
+        animation: mudar1 forwards 10s ;
+        font-size: 14px;
+    }
+    .menu-m{
+        padding-top: 50px;
+        text-align: center;
+        background-color: rgb(76, 23, 122);
+        padding: 40px;
+     
+    }
+    .menu-opcao-m{
+        display: flex;
+        justify-content: space-around;
+        gap: 9px;
+    }
+    .menu-opcao-m p {
+        background-color: #fff;
+        padding: 14px;
+        color: rgb(96, 45, 143);
+        border-radius: 15px;
+        cursor: pointer;
+        transition: 0.7s;
+        font-size: 10px;
+    }
+    main .div-h2{
+        text-align: center;
+    }
+    
+    main .div-h2 h2{
+        background-color: #fff;
+        padding: 50px;
+        color: rgb(67, 25, 107);
+        font-size: 12px;
+    }
+
+
+    .section-botao-m div p{
+        font-size: 12px;
+        color: #fff;
+        background-color: rgb(124, 48, 196,0.4);
+        padding: 20px;
+        cursor: pointer;
+     }
+     .section-botao-m div p:hover{
+    
+        border-radius: 10px;
+        transition: 0.1s;
+        
+     }
+}

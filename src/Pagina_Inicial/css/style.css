@@ -1,0 +1,347 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow-x: hidden;
+    font-family: 'Oswald', sans-serif;
+    background-image: url("../img/fundo3.jpg");
+    background-repeat: no-repeat;
+    background-position: center ;
+    background-size: cover;
+
+}
+body::-webkit-scrollbar {
+    width: 14px;               /* width of the entire scrollbar */
+  }
+  
+  body::-webkit-scrollbar-track {
+    background: rgb(132, 30, 192);        /* color of the tracking area */
+  }
+  
+  body::-webkit-scrollbar-thumb {
+    background-color: rgb(139, 83, 196);    /* color of the scroll thumb */
+    border-radius: 20px;       /* roundness of the scroll thumb */
+    border: 3px solid rgb(83, 43, 114);  /* creates padding around scroll thumb */
+  }
+a{
+    text-decoration: none;
+}
+.cabecalho{
+    text-align: center;
+    width: 100%;
+   
+}
+
+.cabecalho-h1 h1{
+    font-family: 'Oswald', sans-serif;
+    background-color: rgb(67, 25, 107);
+    color: #fff;
+    padding: 30px;
+    animation: mudar1 forwards 10s ;
+}
+.menu{
+    padding-top: 50px;
+    text-align: center;
+    background-color: rgb(76, 23, 122);
+    padding: 40px;
+}
+.menu-opcao{
+    display: flex;
+    justify-content: space-around;
+}
+.menu-opcao p{
+    background-color: #fff;
+    padding: 17px;
+    color: rgb(96, 45, 143);
+    border-radius: 15px;
+    cursor: pointer;
+    transition: 0.7s;
+}
+.menu-opcao p:hover{
+    background-color: rgb(145, 79, 204);
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+.cargos{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+    padding: 30px;
+}
+
+.cargos-div-img img{
+    background-color:  rgb(76, 23, 122);
+    border-radius: 5px;
+    border: 5px solid #fff;
+    padding: 20px;
+}
+
+.cargos-div{
+    background-color: #fff;
+    color: rgb(97, 32, 158);
+    padding: 60px;
+    border-radius: 7px;
+   
+}
+.cargos-lista{
+    padding-top: 30px;
+}
+
+
+    
+.section{
+    padding: 50px;
+    color: #fff;
+
+}
+
+.txt{
+    text-align: center;
+    background-color: rgb(124, 48, 196,0.5) ;
+    padding: 30px;
+    
+    border: 3px solid #fff;
+    margin-bottom: 50px;
+    font-family: 'Kanit', sans-serif;
+
+}
+.txt h3{
+    font-weight: 400;
+    font-size: 30px;
+
+}
+.txt p{
+    font-size: 20px;
+}
+.section-invisivel{
+    position: relative;
+    width: 100%;
+    display: none;
+}
+
+
+.invisivel{
+    text-align: center;
+   
+}
+.invisivel img{
+
+    width: 200px;
+    height: 290px;
+    margin-left: 20px;
+    position: absolute;
+    
+    
+}
+.section-invisivel-1{
+    position: relative;
+    width: 100%;
+    display: none;
+}
+.invisivel-1{
+    text-align: center;
+    margin-left: 60px;
+   
+}
+.invisivel-1 img{
+    width: 250px;
+    position: absolute;
+    
+    
+}
+.invisivel-2{
+    text-align: center;
+    margin-left: 60px;
+   
+}
+.invisivel-2 img{
+    width: 350px;
+    position: absolute; 
+    
+}
+.boi{
+    display: block;
+}
+#img-boi:hover{
+    animation: mudar1 forwards 10s;
+   
+    
+}
+@keyframes mudar1{
+    50%{
+        opacity: 0;
+        
+    }
+}
+.sec-dourado{
+    font-size: 16px;
+    text-align: center;
+    background-color: rgba(107, 20, 194, 0.90) ;
+    border: 3px solid #fff;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 40px;
+    font-family: 'Kanit', sans-serif;
+}
+.sec-dourado h3{
+    padding-top: 20px;
+    font-weight: 400;
+}
+.sec-dourado img{
+    cursor: pointer;
+}
+.txt-2{
+   text-align: center;
+   background-color: rgba(89, 8, 165, 0.91) ;
+   border: 3px solid #fff;
+   margin-bottom: 40px;
+   margin-left: 70px;
+   margin-right: 70px;
+   font-family: 'Kanit', sans-serif;
+}
+.txt-2 h3{
+    padding-top: 19px;
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.txt-2 img{
+    width: 600px;
+    cursor: pointer;
+   
+   
+}
+.section-conteudos{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 150px;
+}
+.contatos {
+
+    text-align: center;
+    justify-content: space-around;
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    border: 3px solid #fff;
+    border-radius: 7px;
+    padding: 60px;
+    background-color: rgb(97, 32, 158,0.95);
+
+
+}
+
+.contatos p{
+    background-color:  #fff;
+    width: 180px;
+    padding: 15px;
+    border-radius: 9px;
+    cursor: pointer;
+    border-radius: 7px;
+    color: rgb(97, 32, 158) ;
+    
+}
+.contatos p:hover{
+    background-image: linear-gradient( rgb(231, 225, 236), rgb(147, 96, 192), rgb(153, 134, 172));
+    transition: 0.5s;
+    animation: pulo forwards 1s;
+}
+@keyframes pulo{
+    50%{
+        padding-top: 10px;
+    }
+}
+.destaques{
+    
+    text-align: center;
+    font-size: 20px;
+    border: 3px solid #fff;
+    border-radius: 7px;
+    padding: 60px;
+    background-color: rgb(97, 32, 158,0.95);
+  
+}
+.destaque-div{
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 7px;
+
+}
+.destaque-lista{
+    color: rgb(97, 32, 158);
+}
+.section-reflexao{
+    padding: 30px;
+    background-color: rgb(124, 48, 196,0.1) ;
+    text-align: center;
+    margin-right: 250px;
+    margin-left: 250px;
+    border: 3px solid #fff;
+    border-radius: 3px;
+    font-family: 'Kanit', sans-serif;
+   
+}
+.div-reflexao-2 img{
+    width: 500px;
+    cursor: pointer;
+
+}
+.section-2{
+    text-align: center;
+    padding-top: 50px;
+}
+.mais-info{
+    background-color: rgb(124, 48, 196,0.1) ;
+    padding: 30px;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 7px;
+    font-weight: 300;
+    color: #fff;
+    font-family: 'Kanit', sans-serif;
+}
+.section-3{
+   padding-top: 150px;
+}
+.div-galeria{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.div-galeria p{
+    font-size: 20px;
+    background-color: #fff;
+    color:  rgb(97, 32, 158);
+    padding: 20px;
+    border-radius: 7px;
+    cursor: pointer;
+
+}
+.div-galeria  p:hover{
+    background-color: rgb(142, 74, 206);
+    padding: 25px;
+    transition: 0.5s;
+}
+
+footer{
+    text-align: center;
+    display: flex;
+    margin-left: 40%;
+    color: #fff;
+
+}
+.footer-hp{
+    padding-top: 40px;
+}
+
+footer #img-footer{
+    
+}
+
+
+

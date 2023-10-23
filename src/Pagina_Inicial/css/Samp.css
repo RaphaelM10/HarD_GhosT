@@ -1,0 +1,167 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Oswald', sans-serif;
+    background-image: url("../img/fundo3.jpg");
+    background-repeat: no-repeat;
+    background-position: center ;
+    background-size: cover;
+   
+
+}
+body::-webkit-scrollbar {
+    width: 14px;               /* width of the entire scrollbar */
+  }
+  
+  body::-webkit-scrollbar-track {
+    background: rgb(94, 19, 109);        /* color of the tracking area */
+  }
+  
+  body::-webkit-scrollbar-thumb {
+    background-color: rgb(67, 25, 107);    /* color of the scroll thumb */
+    border-radius: 20px;       /* roundness of the scroll thumb */
+    border: 3px solid rgb(98, 28, 112);  /* creates padding around scroll thumb */
+  }
+
+.cabecalho-s{
+    text-align: center;
+    
+   
+}
+
+.cabecalho-h1-s h1{
+    font-family: 'Oswald', sans-serif;
+    background-color: rgb(67, 25, 107);
+    color: #fff;
+    padding: 30px;
+    animation: mudar1 forwards 10s ;
+}
+.menu-s{
+    padding-top: 50px;
+    text-align: center;
+    background-color: rgb(76, 23, 122);
+    padding: 40px;
+ 
+}
+.menu-opcao-s{
+    display: flex;
+    justify-content: space-around;
+}
+.menu-opcao-s p {
+    background-color: #fff;
+    padding: 17px;
+    color: rgb(96, 45, 143);
+    border-radius: 15px;
+    cursor: pointer;
+    transition: 0.7s;
+}
+.menu-opcao-s p:hover{
+    background-color: rgb(145, 79, 204);
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+.section-s{
+    margin-top: 100px;
+    padding: 40px;
+    text-align: center;
+    color: #fff;
+    background-color: rgb(67, 25, 107);
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 6px;
+    font-family: 'Kanit', sans-serif;
+    border: 3px solid #fff;
+}
+.section-s h2{
+    padding: 30px;
+
+}
+.section-s img{
+    padding-top: 20px;
+}
+.section-info-s{
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    color: #fff;
+    background-color: rgb(124, 48, 196,0.7) ;
+    padding: 30px;
+    font-size: 17px;
+    font-weight: 500;
+    font-family: 'Kanit', sans-serif;
+}
+.section-ip-s{
+    text-align: center;
+    color: #fff;
+    margin-top: 40px;
+    padding: 40px;
+    font-size: 20px;
+    background-color: rgb(124, 48, 196,0.4);
+    text-align: center;
+
+}
+.section-baixar-s{
+    padding-top: 60px;
+ }
+ .section-baixar-s div{
+     display: flex;
+     justify-content: center;
+     gap: 20px;
+ }
+ .section-baixar-s div p{
+     color: #fff;
+     background-color: rgb(7, 146, 7);
+     padding: 30px;
+     border-radius: 7px;
+     cursor: pointer;
+     transition: 0.5s;
+ }
+ .section-baixar-s div p:hover{
+     
+     animation: pulo2 forwards 5s ;
+     
+ }
+ @keyframes pulo2{
+    50%{
+        background-color: rgb(94, 32, 153);
+    }
+    100%{
+        background-color: #0e8b66;
+    }
+ }
+ .section-botao-s{
+    text-align: center;
+    padding-top: 100px;
+ }
+ .section-botao-s div p{
+    font-size: 22px;
+    color: #fff;
+    background-color: rgb(124, 48, 196,0.4);
+    padding: 20px;
+    cursor: pointer;
+ }
+ .section-botao-s div p:hover{
+    border-radius: 10px;
+    transition: 0.1s;
+    
+ }
+footer{
+    text-align: center;
+    display: flex;
+    margin-left: 40%;
+    padding-top: 90px;
+
+}
+.footer-hp{
+    padding-top: 40px;
+}
+#img-footer{
+    width: 200px;
+    
+}

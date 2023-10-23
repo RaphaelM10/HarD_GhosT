@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.abert{
+    padding: 150px;
+}
+
+.main-abertura{
+   
+    text-align: center;
+    padding-top: 20px;
+    color: #fff;
+    background-color: rgb(87, 43, 128);
+    border-radius: 8px;
+    margin: 10px 300px 30px 300px;
+    border: 3px solid #fff;
+}
+.main-abertura h1{
+    transition: 0.8s;
+    animation: piscar 12s forwards;
+}
+@keyframes piscar{
+    50%{
+        opacity: 0;
+    }
+    70%{
+        color: #815656;
+    }
+
+}
+.main-abertura img{
+    transition: 1s;
+    animation: aumento 5s infinite;
+}
+@keyframes aumento{
+    50%{
+        translate: 1%;
+    }
+    80%{
+        translate: -6%;
+    }
+}
+.main-abertura p{
+    background-color: #fff;
+    padding: 30px;
+    color: rgb(87, 43, 128);
+    font-family: 'kanit',sans-serif;
+}
+.main-abertura p:hover{
+    box-shadow: 1px 1px 1px 1px black;
+    cursor: pointer;
+    font-size: 18px;
+    transition: 1s;
+    border-radius: 5px;
+    animation: mouse forwards 6s;
+}
+.main-abertura h3{
+    font-weight: 400;
+    font-size: 19px;
+    padding-bottom: 20px;
+
+}
+@keyframes mouse{
+   
+    50%{
+        background-color: #502958;
+    }
+    70%{
+        background-color: #b164bb;
+    }
+}

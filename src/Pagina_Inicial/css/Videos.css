@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Oswald', sans-serif;
+    background-image: url("../img/fundo3.jpg");
+    background-repeat: no-repeat;
+    background-position: center ;
+    background-size: cover;
+    overflow-x: hidden;
+
+}
+body::-webkit-scrollbar {
+    width: 14px;               /* width of the entire scrollbar */
+  }
+  
+  body::-webkit-scrollbar-track {
+    background: rgb(94, 19, 109);        /* color of the tracking area */
+  }
+  
+  body::-webkit-scrollbar-thumb {
+    background-color: rgb(67, 25, 107);    /* color of the scroll thumb */
+    border-radius: 20px;       /* roundness of the scroll thumb */
+    border: 3px solid rgb(98, 28, 112);  /* creates padding around scroll thumb */
+  }
+a{
+    text-decoration: none;
+}
+.cabecalho-v{
+    text-align: center;
+    
+   
+}
+
+.cabecalho-h1-v h1{
+    font-family: 'Oswald', sans-serif;
+    background-color: rgb(67, 25, 107);
+    color: #fff;
+    padding: 30px;
+    animation: mudar1 forwards 10s ;
+}
+.menu-v{
+    padding-top: 50px;
+    text-align: center;
+    background-color: rgb(76, 23, 122);
+    padding: 40px;
+}
+.menu-opcao-v{
+    display: flex;
+    justify-content: space-around;
+}
+.menu-opcao-v p{
+    background-color: #fff;
+    padding: 17px;
+    color: rgb(96, 45, 143);
+    border-radius: 15px;
+    cursor: pointer;
+    transition: 0.7s;
+}
+.menu-opcao-v p:hover{
+    background-color: rgb(145, 79, 204);
+    padding-right: 50px;
+    padding-left: 50px;;
+}
+
+
+
+.main-v-div{
+    
+    text-align: center;
+}
+.main-v-div h1{
+    background-color: #fff;
+    padding: 50px;
+    color: rgb(67, 25, 107);
+}
+
+.div-video{
+    padding-top: 200px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(76, 23, 122,0.99);
+
+}
+.div-video div{
+}
+.div-video video{
+    border-radius: 7px;
+    background-image: url('../img/fundo4.jpg');
+    border: 3px solid #fff;
+   
+}
+.div-video div p{
+    
+    font-family: 'kanit',sans-serif;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 10px;
+    color:rgb(67, 25, 107);
+    font-size: 17px;
+}
+
+.div-bottom{
+    padding-top: 110px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    color:rgb(67, 25, 107);
+}
+.div-bottom p{
+    font-family: 'kanit',sans-serif;
+    background-color: #fff;
+    padding: 19px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.div-bottom p:hover{
+    transition: 0.5s;
+    background-color: #692077;
+}

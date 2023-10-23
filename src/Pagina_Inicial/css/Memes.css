@@ -1,0 +1,111 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Oswald', sans-serif;
+    background-image: url("../img/fundo3.jpg");
+    background-repeat: no-repeat;
+    background-position: center ;
+    background-size: cover;
+   
+
+}
+body::-webkit-scrollbar {
+    width: 14px;               /* width of the entire scrollbar */
+  }
+  
+  body::-webkit-scrollbar-track {
+    background: rgb(94, 19, 109);        /* color of the tracking area */
+  }
+  
+  body::-webkit-scrollbar-thumb {
+    background-color: rgb(67, 25, 107);    /* color of the scroll thumb */
+    border-radius: 20px;       /* roundness of the scroll thumb */
+    border: 3px solid rgb(98, 28, 112);  /* creates padding around scroll thumb */
+  }
+
+.cabecalho-m{
+    text-align: center;
+    
+   
+}
+
+.cabecalho-h1-m h1{
+    font-family: 'Oswald', sans-serif;
+    background-color: rgb(67, 25, 107);
+    color: #fff;
+    padding: 30px;
+    animation: mudar1 forwards 10s ;
+}
+.menu-m{
+    padding-top: 50px;
+    text-align: center;
+    background-color: rgb(76, 23, 122);
+    padding: 40px;
+ 
+}
+.menu-opcao-m{
+    display: flex;
+    justify-content: space-around;
+}
+.menu-opcao-m p {
+    background-color: #fff;
+    padding: 17px;
+    color: rgb(96, 45, 143);
+    border-radius: 15px;
+    cursor: pointer;
+    transition: 0.7s;
+}
+.menu-opcao-m p:hover{
+    background-color: rgb(145, 79, 204);
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+main .div-h2{
+    text-align: center;
+}
+
+main .div-h2 h2{
+    background-color: #fff;
+    padding: 50px;
+    color: rgb(67, 25, 107);
+}
+
+main .div-img{
+    column-count: 4;
+    column-gap: 10px;
+    margin: 0px 15px 0px 15px;
+    padding-top: 60px;
+}
+main .div-img img{
+    width: 100%;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    border: 3px solid #fff;
+}
+
+
+
+.section-botao-m{
+    text-align: center;
+    padding-top: 150px;
+ }
+ .section-botao-m div p{
+    font-size: 22px;
+    color: #fff;
+    background-color: rgb(124, 48, 196,0.4);
+    padding: 20px;
+    cursor: pointer;
+ }
+ .section-botao-m div p:hover{
+
+    border-radius: 10px;
+    transition: 0.1s;
+    
+ }
+
+
