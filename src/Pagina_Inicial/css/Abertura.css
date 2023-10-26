@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+
 *{
     padding: 0;
     margin: 0;
@@ -7,17 +6,18 @@
 }
 
 .abert{
-    padding: 150px;
+    margin-bottom: 20vh;
+    
 }
 
 .main-abertura{
-   
+    
     text-align: center;
     padding-top: 20px;
     color: #fff;
     background-color: rgb(87, 43, 128);
     border-radius: 8px;
-    margin: 10px 300px 30px 300px;
+    margin: 150px 300px 30px 300px;
     border: 3px solid #fff;
 }
 .main-abertura h1{

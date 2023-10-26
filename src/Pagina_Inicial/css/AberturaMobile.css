@@ -8,7 +8,7 @@
         background-size: cover;
     }
     .abert{
-        margin: 100px;
+        margin-top: 150px;
     }
     .main-abertura{
         text-align: center;
@@ -16,7 +16,7 @@
         color: #fff;
         background-color: rgb(87, 43, 128);
         border-radius: 8px;
-        margin: 10px 200px 30px 200px;
+        margin: 10px 100px 30px 100px;
         border: 3px solid #fff;
         
     }
@@ -56,29 +56,39 @@
 
 
 
-@media(max-width:1075px){
+@media(max-width:1159px){
+    .abert{
+        margin-top: 150px;
+    }
     .main-abertura{
         text-align: center;
         padding-top: 20px;
         color: #fff;
         background-color: rgb(87, 43, 128);
         border-radius: 8px;
-        margin: 10px 170px 30px 170px;
+        margin: 10px 60px 30px 60px;
         border: 3px solid #fff;
+        
     }
+
+   
+  
+   
+  
+   
 }
 
 
 
 
-@media(max-width:988px){
+@media(max-width:999px){
     .main-abertura{
         text-align: center;
         padding-top: 20px;
         color: #fff;
         background-color: rgb(87, 43, 128);
         border-radius: 8px;
-        margin: 10px 150px 30px 150px;
+        margin: 10px 7px 30px 7px;
         border: 3px solid #fff;
     }
 }
@@ -88,11 +98,11 @@
 @media(max-width:957px){
     .main-abertura{
         text-align: center;
-        padding-top: 20px;
+        padding-top: 2px;
         color: #fff;
         background-color: rgb(87, 43, 128);
         border-radius: 8px;
-        margin: 10px 120px 30px 120px;
+        margin: 1px 12px 30px 10px;
         border: 3px solid #fff;
     }
 }
@@ -194,11 +204,9 @@
 
 
 @media(max-width:688px){
-    .abert{
-        padding-top: 30px;
-        padding-bottom: 50px;
-    }
-    
+   .abert{
+    margin-top: 170px;
+   }
     .main-abertura{
         text-align: center;
         padding-top: 20px;
@@ -250,7 +258,9 @@
 
 
 @media(max-width:663px){
-    
+    .abert{
+        margin-top: 190px;
+       }
     .main-abertura{
         text-align: center;
         padding-top: 20px;
@@ -321,10 +331,7 @@
 
 
 @media(max-width:493px){
-    .abert{
-        padding-top: 75px;
-        padding-bottom: 100px;
-    }
+   
     
     .main-abertura{
         text-align: center;
@@ -374,8 +381,8 @@
 
 @media(max-width:416px){
     .abert{
-        margin-top: 50px;
-        margin-bottom: 80px;
+        margin-top: 200px;
+        
     }
     
     .main-abertura{
@@ -428,12 +435,12 @@
 
 
 @media(max-width:369px){
-    .abert{
-        margin-top: 40px;
-        padding-bottom: 160px;
-
-    }
     
+    .abert{
+        margin-top: 200px;
+        margin-bottom: 300px;
+        
+    }
     .main-abertura{
         text-align: center;
         padding-top: 15px;
@@ -483,11 +490,12 @@
 
 
 @media(max-width:316px){
+   
     .abert{
-        margin: 90px;
-        overflow-y: hidden;
+        margin-top: 200px;
+        margin-bottom: 300px;
+        
     }
-    
     .main-abertura{
         text-align: center;
         padding-top: 15px;
@@ -539,12 +547,9 @@
 
 @media(max-width:277px){
     .abert{
-        margin: 100px;
-    }
-    .abert{
-        margin-top: 50px;
-        margin-bottom: 45px;
-        overflow-y: hidden;
+        margin-top: 200px;
+        margin-bottom: 300px;
+        
     }
     
     .main-abertura{
