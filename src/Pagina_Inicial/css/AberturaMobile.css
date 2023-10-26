@@ -279,9 +279,9 @@
 
 @media(max-width:539px){
     .abert{
-        padding-top: 43px;
-        padding-bottom: 80px;
-    }
+        padding-top: 10px;
+          padding-bottom: 40px;
+      }
     
     .main-abertura{
         text-align: center;
@@ -331,7 +331,10 @@
 
 
 @media(max-width:493px){
-   
+    .abert{
+      padding-top: 10px;
+        padding-bottom: 80px;
+    }
     
     .main-abertura{
         text-align: center;
