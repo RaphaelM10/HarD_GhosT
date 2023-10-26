@@ -47,7 +47,7 @@ export default function Home(){
         DivInvisivel.classList.toggle('section-invisivel')
     }
     const zap = ()=>{
-        alert(`Esse Link foi desligado temporariamente devido a suspeita de petistas infiltrados no nosso grupo. Po gentileza  entrar em contato por outros meios de comunicação.`)
+        alert(`>>Link exibido apenas para alguns usuários! Por gentileza, entre via Discord ou Fale com algum Staff do nosso Clã<<`)
     }
     const cliqueDourado = ()=>{
         alert('HEHEHE, fez cócegas')

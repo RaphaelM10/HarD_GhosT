@@ -20,6 +20,16 @@ export default function HeaderAbertura(){
          el.innerHTML =  'Samp Laucher Atualizado'
            
     }
+   
+
+   function Ip(){
+        alert(`IP do Servidor:
+        >>Antigo:  rpg.nwdgames.net:7777
+        >>Novo: 149.56.41.48:7784
+
+        Obrigado por Estar Conosco!`)
+   }
+           
     
     
  
@@ -58,9 +68,10 @@ export default function HeaderAbertura(){
                 Jogo GTA San Andreas RIP + Online completo para PC.</p>
         </section>
         <section className="section-ip-s">
-            <div>
+            <div onClick={Ip}>
             <h2>IP do Servidor:</h2>
-            <p>rpg.nwdgames.net:7777</p>
+            <p>Antigo:  rpg.nwdgames.net:7777</p>
+            <p>Novo: 149.56.41.48:7784</p>
         </div>
         </section>
         <section className="section-baixar-s">
