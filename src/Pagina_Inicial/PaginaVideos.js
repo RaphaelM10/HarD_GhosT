@@ -28,7 +28,7 @@ export default function Videos(){
         <header>
                 <section className='cabecalho-v'>
                 <div className='cabecalho-h1-v'>
-                <h1>HarD-GhosT &reg; 2023 </h1>
+                <h1>HarD-GhosT &reg; 2024 </h1>
              </div>
              </section>
         <section className='menu-v'>
@@ -188,7 +188,7 @@ export default function Videos(){
     </main>
     <footer style={{backgroundColor:''}}>
             <div className="footer-hp">
-                <p>HarD-GhosT &reg; 2023</p>
+                <p>HarD-GhosT &reg; 2024</p>
             </div>
             <div className="img-div-footer">
                 <img id="img-footer" src={Galinha} alt="galinha"/>

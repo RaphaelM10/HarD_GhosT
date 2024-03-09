@@ -1,6 +1,6 @@
 import './css/style.css'
 import { Outlet, Link } from "react-router-dom";
-import Logo from './img/logo.jpg'
+import Logo from './img/logo.png'
 import React from 'react'
 import './css/style.css'
 import './css/styleMobile.css'
@@ -22,10 +22,13 @@ export default function Home(){
         const el = document.getElementById('el')
         
         setInterval(function () {
-            el.innerHTML = 'HarD-GhosT &reg; 2023'
+            el.innerHTML = 'HarD-GhosT &reg; 2024'
     }, 1000*10); 
          el.innerHTML =  'HarD-GhosT lhe deseja Boas Vindas!'
            
+    }
+    function dark(){
+        alert("Função em desenvolvimento ( 'Modo dark' ).")
     }
     function clique1(){
        
@@ -58,7 +61,10 @@ export default function Home(){
 
     <section className='cabecalho'>
         <div className='cabecalho-h1'>
-            <h1 onMouseLeave={bv} id='el'>HarD-GhosT &reg; 2023 </h1>
+            <h1 onMouseLeave={bv} id='el'>HarD-GhosT &reg; 2024 </h1>
+            <span onClick={dark} class="material-symbols-outlined">
+dark_mode
+</span>
         </div>
         </section>
         <section className='menu'>
@@ -193,7 +199,7 @@ export default function Home(){
            </main>
            <footer>
            <div className="footer-hp">
-                <p>HarD-GhosT &reg; 2023</p>
+                <p>HarD-GhosT &reg; 2024</p>
             </div>
             <img id="img-footer" src={Galinha} alt="galinha"/>
         </footer>

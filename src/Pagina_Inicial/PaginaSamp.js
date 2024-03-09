@@ -15,7 +15,7 @@ export default function HeaderAbertura(){
         const el = document.getElementById('el')
         
         setInterval(function () {
-            el.innerHTML = 'HarD-GhosT &reg; 2023'
+            el.innerHTML = 'HarD-GhosT &reg; 2024'
     }, 1000*10); 
          el.innerHTML =  'Samp Laucher Atualizado'
            
@@ -39,7 +39,7 @@ export default function HeaderAbertura(){
     <header>
     <section className='cabecalho-s'>
         <div className='cabecalho-h1-s'>
-            <h1 id="el" onMouseLeave={bv} >HarD-GhosT &reg; 2023 </h1>
+            <h1 id="el" onMouseLeave={bv} >HarD-GhosT &reg; 2024 </h1>
         </div>
         </section>
         <section className='menu-s'>
@@ -88,7 +88,7 @@ export default function HeaderAbertura(){
         </section>
     <footer>
         <div className="footer-hp">
-        <p>HarD-GhosT &reg; 2023</p>
+        <p>HarD-GhosT &reg; 2024</p>
     </div>
     <div className="img-div-footer">
         <img id="img-footer" src={Galinha} alt="galinha"/>

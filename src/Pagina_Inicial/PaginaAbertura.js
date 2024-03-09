@@ -7,7 +7,7 @@ export default function Abertura(){
     return(
         <><body className='abert'>
             <main className='main-abertura'>
-            <h1>HarD-GhosT &reg; 2023 Oficial</h1>
+            <h1>HarD-GhosT &reg; 2024 Oficial</h1>
                 <img src={Logo}></img>
                 
                 <h3>Create by Ninja &copy;</h3>
