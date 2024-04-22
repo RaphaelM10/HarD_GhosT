@@ -154,6 +154,34 @@ export default function Memes(){
                 <img src='./img/curiosos.jpg' alt='curiosos'></img>
                 <img src='./img/hard-pantanal.jpg' alt='hard-pantanal'></img>
                 <img src='./img/gus-velho.jpg' alt='velho'></img>
+
+
+
+////
+                <img src='./img/acai-membro.jpg' alt='carro'></img>
+                <img src='./img/dourado-membro.jpg' alt='calvo-pm'></img>
+                <img src='./img/supremo-membro2.jpg' alt='nwd'></img>
+                <img src='./img/tobiburro.jpg' alt='curiosos'></img>
+                <img src='./img/tobiboso.jpg' alt='hard-pantanal'></img>
+                <img src='./img/augusto-membro.jpg' alt='velho'></img>
+
+
+
+                <img src='./img/caducrak.jpg' alt='carro'></img>
+                <img src='./img/mikeiaspref.jpg' alt='calvo-pm'></img>
+                <img src='./img/memecorno.jpg' alt='nwd'></img>
+                <img src='./img/mikeiasvitar.jpg' alt='curiosos'></img>
+                <img src='./img/mikeiasmoto.jpg' alt='hard-pantanal'></img>
+                <img src='./img/tobirodas.jpg' alt='velho'></img>
+
+
+
+                <img src='./img/gustavoovo.jpg' alt='carro'></img>
+                <img src='./img/spxcp.jpg' alt='calvo-pm'></img>
+                <img src='./img/mikeiascalvo.jpg' alt='nwd'></img>
+                <img src='./img/alexmeme.jpg' alt='curiosos'></img>
+                <img src='./img/gustavob.jpg' alt='hard-pantanal'></img>
+                <img src='./img/luanb.jpg' alt='velho'></img>
             </div>
       </main>
       <section className="section-botao-m">

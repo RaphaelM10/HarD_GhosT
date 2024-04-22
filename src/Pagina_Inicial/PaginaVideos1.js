@@ -7,8 +7,10 @@ import HardSong from './Videos/hardsong.mp4'
 import VidSup from './Videos/VID-supremo.mp4'
 import Gus5 from './Videos/Gus5.mp4'
 import Gus6 from './Videos/Gus6.mp4'
+import Gusb from './Videos/gusb.mp4'
 import MemeG from './Videos/MemeG.mp4'
 import VIDCalvo from './Videos/VID-calvo.mp4'
+import hardoido from './Videos/hardoido.mp4'
 import BebHard from './Videos/BebHard.mp4'
 import Bebhard2 from './Videos/Beb-hard2.mp4'
 
@@ -63,6 +65,40 @@ export default function Videos1(){
        <p>Musica do Maior corno da NWD</p>
        </div>
         </div>
+
+
+
+
+
+
+        <div className="div-video">
+            <div>
+            
+        <video width="380" height="240" controls="controls"  preload="metadata">
+            <source src={Gusb} type="video/mp4"/>
+            <object data="" width="320" height="240">
+            <embed width="320" height="240" src=''/>
+            </object>
+            </video>
+            <p>
+                Noia dms
+            </p>
+            </div>
+            
+        <div>
+            <video width="380" height="240" controls="controls" preload="metadata">
+            <source src={hardoido}type="video/mp4"/>
+            <object data="" width="320" height="240">
+            <embed width="320" height="240" src=''/>
+            </object>
+       </video>
+       <p>Hard sem limites</p>
+       </div>
+        </div>
+
+
+
+      
         <div className="div-video">
             <div>
             
@@ -130,7 +166,18 @@ export default function Videos1(){
        </video>
             <p>...</p>
        </div>
+
+
+
+
+
         </div>
+        
+
+
+
+
+
         
         <div className="div-bottom">
         <Link to='/videos'><p>Voltar</p></Link>
