@@ -261,7 +261,7 @@
 }
 
 
-@media(max-width:413px){
+@media(max-width:415px){
 
     
     .main-abertura{
@@ -300,7 +300,7 @@
     .main-abertura h3{
         font-weight: 400;
         font-size: 15px;
-        padding-bottom: 146px;
+        padding-bottom: 80px;
     
     }
  

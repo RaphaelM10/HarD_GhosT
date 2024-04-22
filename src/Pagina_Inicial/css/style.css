@@ -7,7 +7,9 @@
     margin: 0;
     box-sizing: border-box;
 }
-
+body{
+    background-image: url("../img/fundo3.jpg");
+}
 body::-webkit-scrollbar {
     width: 14px;               /* width of the entire scrollbar */
   }
@@ -268,13 +270,9 @@ a{
 .contatos p:hover{
     background-image: linear-gradient( rgb(231, 225, 236), rgb(147, 96, 192), rgb(153, 134, 172));
     transition: 0.5s;
-    animation: pulo forwards 1s;
+ 
 }
-@keyframes pulo{
-    50%{
-        padding-top: 10px;
-    }
-}
+
 #divisao{
     font-size: 400px;
 }

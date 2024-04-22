@@ -1066,6 +1066,7 @@
        display: flex;
        justify-content: space-around;
        padding-top: 60px;
+       gap: 10px;
       
    }
    
@@ -1148,30 +1149,36 @@
     width:200px;
  }
    .section-conteudos{
-    display: flex;
+    display: block;
+  
     justify-content: space-around;
     padding-bottom: 150px;
     gap: 20px;
 }
    .contatos{
-       padding: 15px;
+        display: block;
+        text-align: center;
+        padding: 15px;
+        margin-bottom: 20px;
 
    }
    .contatos h2{
        font-size: 15px;
     }
     .contatos p{
+        
        font-size: 10px;
        background-color:  #fff;
-       width: 80px;
-       padding: 10px;
+       width: 100%;
+       padding: 20px;
+       margin-top: 20px;
        border-radius: 9px;
        cursor: pointer;
        border-radius: 7px;
        color: rgb(97, 32, 158) ;
        
    }
-  
+ 
    .destaques{
        
        text-align: center;
@@ -1212,15 +1219,16 @@
    
    }
    .div-galeria{
+    text-align: center;
     display: flex;
-    justify-content: center;
+    flex-direction: column;
     gap: 20px;
 }
 .div-galeria p{
-    font-size: 10px;
+    font-size: 12px;
     background-color: #fff;
     color:  rgb(97, 32, 158);
-    padding: 14px;
+    padding: 20px;
     border-radius: 7px;
     cursor: pointer;
 
@@ -1301,6 +1309,7 @@
        display: flex;
        justify-content: space-around;
        padding-top: 60px;
+       gap: 10px;
       
    }
    
@@ -1403,30 +1412,31 @@
  .txt-2 img{
     width:200px;
  }
-   .section-conteudos{
-    display: flex;
-    justify-content: space-around;
-    padding-bottom: 150px;
-    gap: 20px;
-}
-   .contatos{
-       padding: 15px;
 
-   }
-   .contatos h2{
-       font-size: 15px;
-    }
-    .contatos p{
-       font-size: 10px;
-       background-color:  #fff;
-       width: 80px;
-       padding: 10px;
-       border-radius: 9px;
-       cursor: pointer;
-       border-radius: 7px;
-       color: rgb(97, 32, 158) ;
-       
-   }
+.contatos{
+    display: block;
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 20px;
+
+}
+.contatos h2{
+   font-size: 15px;
+}
+.contatos p{
+    
+   font-size: 10px;
+   background-color:  #fff;
+   width: 100%;
+   padding: 20px;
+   margin-top: 20px;
+   border-radius: 9px;
+   cursor: pointer;
+   border-radius: 7px;
+   color: rgb(97, 32, 158) ;
+   
+}
+
   
    .destaques{
        
@@ -1468,22 +1478,23 @@
    
    }
    .div-galeria{
+    text-align: center;
     display: flex;
-    justify-content: center;
+    flex-direction: column;
     gap: 20px;
 }
 .div-galeria p{
     font-size: 10px;
     background-color: #fff;
     color:  rgb(97, 32, 158);
-    padding: 14px;
+    padding: 20px;
     border-radius: 7px;
     cursor: pointer;
 
 }
 .div-galeria  p:hover{
     background-color: rgb(142, 74, 206);
-    padding: 25px;
+    padding: 21px;
     transition: 0.5s;
 }
    .mais-info{
@@ -1642,30 +1653,29 @@
  .txt-2 img{
     width:200px;
  }
-   .section-conteudos{
-    display: flex;
-    justify-content: space-around;
-    padding-bottom: 150px;
-    gap: 20px;
-}
-   .contatos{
-       padding: 15px;
+ .contatos{
+    display: block;
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 20px;
 
-   }
-   .contatos h2{
-       font-size: 15px;
-    }
-    .contatos p{
-       font-size: 10px;
-       background-color:  #fff;
-       width: 80px;
-       padding: 10px;
-       border-radius: 9px;
-       cursor: pointer;
-       border-radius: 7px;
-       color: rgb(97, 32, 158) ;
-       
-   }
+}
+.contatos h2{
+   font-size: 15px;
+}
+.contatos p{
+    
+   font-size: 10px;
+   background-color:  #fff;
+   width: 100%;
+   padding: 15px;
+   margin-top: 20px;
+   border-radius: 9px;
+   cursor: pointer;
+   border-radius: 7px;
+   color: rgb(97, 32, 158) ;
+   
+}
   
    .destaques{
        
@@ -1707,9 +1717,11 @@
    
    }
    .div-galeria{
+    text-align: center;
     display: flex;
-    justify-content: center;
+    flex-direction: column;
     gap: 20px;
+
 }
 .div-galeria p{
     font-size: 10px;
@@ -1722,7 +1734,7 @@
 }
 .div-galeria  p:hover{
     background-color: rgb(142, 74, 206);
-    padding: 25px;
+    padding: 15px;
     transition: 0.5s;
 }
    .mais-info{
@@ -1908,30 +1920,29 @@
  .txt-2 img{
     width:120px;
  }
-   .section-conteudos{
-    display: flex;
-    justify-content: space-around;
-    padding-bottom: 150px;
-    gap: 10px;
-}
-   .contatos{
-       padding: 15px;
+ .contatos{
+    display: block;
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 20px;
 
-   }
-   .contatos h2{
-       font-size: 15px;
-    }
-    .contatos p{
-       font-size: 10px;
-       background-color:  #fff;
-       width: 80px;
-       padding: 10px;
-       border-radius: 9px;
-       cursor: pointer;
-       border-radius: 7px;
-       color: rgb(97, 32, 158) ;
-       
-   }
+}
+.contatos h2{
+   font-size: 15px;
+}
+.contatos p{
+    
+   font-size: 10px;
+   background-color:  #fff;
+   width: 100%;
+   padding: 15px;
+   margin-top: 20px;
+   border-radius: 9px;
+   cursor: pointer;
+   border-radius: 7px;
+   color: rgb(97, 32, 158) ;
+   
+}
   
    .destaques{
        
@@ -1974,8 +1985,9 @@
    
    }
    .div-galeria{
+    text-align: center;
     display: flex;
-    justify-content: center;
+    flex-direction: column;
     gap: 20px;
 }
 .div-galeria p{
@@ -1989,7 +2001,7 @@
 }
 .div-galeria  p:hover{
     background-color: rgb(142, 74, 206);
-    padding: 25px;
+    padding: 15px;
     transition: 0.5s;
 }
 .mais-info{
