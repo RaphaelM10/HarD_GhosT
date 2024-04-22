@@ -27,42 +27,55 @@ body::-webkit-scrollbar {
     border: 3px solid rgb(98, 28, 112);  /* creates padding around scroll thumb */
   }
 
-.cabecalho-m{
+  .cabecalho-m {
     text-align: center;
-    
-   
+    width: 100%;
+    background-color: rgb(61, 15, 105);
+ 
 }
-
+.cabecalho-h1-m {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .cabecalho-h1-m h1{
-    font-family: 'Oswald', sans-serif;
-    background-color: rgb(67, 25, 107);
+    font-family: "Jersey 25", sans-serif;
+    
     color: #fff;
-    padding: 30px;
+    padding: 40px;
     animation: mudar1 forwards 10s ;
+}
+.cabecalho-h1-m span{
+   color:  rgb(67, 25, 107);;
+   background-color: #fff;
+   border-radius: 15px;;
+   padding: 3px;
+   cursor: pointer;
 }
 .menu-m{
     padding-top: 50px;
     text-align: center;
     background-color: rgb(76, 23, 122);
     padding: 40px;
- 
 }
 .menu-opcao-m{
     display: flex;
     justify-content: space-around;
 }
-.menu-opcao-m p {
+.menu-opcao-m  p{
     background-color: #fff;
     padding: 17px;
     color: rgb(96, 45, 143);
-    border-radius: 15px;
+    border-radius: 10px;
     cursor: pointer;
-    transition: 0.7s;
+    transition: 0.4s;
+    font-family: "kanit", sans-serif;
 }
 .menu-opcao-m p:hover{
+    transition: 1s;
+    opacity: 0.5;
     background-color: rgb(145, 79, 204);
-    padding-right: 50px;
-    padding-left: 50px;
+    
 }
 
 main .div-h2{

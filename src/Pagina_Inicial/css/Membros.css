@@ -1,0 +1,113 @@
+
+.cabecalho{
+    text-align: center;
+    width: 100%;
+    background-color: rgb(61, 15, 105);
+ 
+}
+.cabecalho-h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cabecalho-h1 h1{
+    font-family: "Jersey 25", sans-serif;
+    
+    color: #fff;
+    padding: 40px;
+    animation: mudar1 forwards 10s ;
+}
+.cabecalho-h1 span{
+   color:  rgb(67, 25, 107);;
+   background-color: #fff;
+   border-radius: 15px;;
+   padding: 3px;
+   cursor: pointer;
+}
+.menu-membros{
+    padding-top: 50px;
+    text-align: center;
+    background-color: rgb(76, 23, 122);
+    padding: 40px;
+  
+}
+.menu-opcao-membros{
+    display: flex;
+    justify-content: space-around;
+}
+.menu-opcao-membros p{
+    font-family: "kanit", sans-serif;
+    background-color: #fff;
+    padding: 17px;
+    color: rgb(96, 45, 143);
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.4s;
+ 
+}
+.menu-opcao-membros p:hover{
+    transition: 1s;
+    opacity: 0.5;
+    background-color: rgb(145, 79, 204);
+    
+}
+
+
+
+.section-membros{
+    padding: 40px;
+    background-color: rgb(61, 15, 105);
+}
+.section-membros-div{
+    display: flex;
+    justify-content: space-around;
+}
+.section-membros-div-color{
+    background-image: linear-gradient(#5a259e,#fff,#fcfaff);
+    padding: 50px;
+    border-radius: 20px;
+}
+
+.section-membros-div-2{
+    display: flex;
+    justify-content: space-around;
+}
+.section-membros-div-2-color{
+    background-image: linear-gradient(#5a259e,#fff,#fcfaff);
+    padding: 50px;
+    border-radius: 20px;
+}
+
+.section-membros div{
+    text-align: center;
+    color: rgb(61, 15, 105);
+    
+}
+.section-membros div h1{
+    font-family: "Roboto Condensed", sans-serif;
+    font-weight: 400;
+    margin-bottom: 50px;
+    color: #fff;
+}
+
+
+.section-membros div img{
+    margin-top: 30px;
+    width: 300px;
+}
+
+
+.section-voltar-membros{
+    padding: 20px;
+    background-color:rgb(92, 35, 145) ;
+    margin-top: 50px;
+    text-align: center;
+    color: #fff;
+    transition: 1s;
+
+}
+
+.section-voltar-membros:hover{
+
+    background-color:rgb(103, 27, 173) ;
+}

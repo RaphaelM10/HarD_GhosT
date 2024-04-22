@@ -27,15 +27,17 @@ export default function Home(){
          el.innerHTML =  'HarD-GhosT lhe deseja Boas Vindas!'
            
     }
+    const cabecalho = document.getElementById("cabecalho");
     function dark(){
-        alert("Função em desenvolvimento ( 'Modo dark' ).")
+        alert("Função em desenvolvimento ( 'Modo dark' ).");
+        cabecalho.style.color = 'blue';
     }
     function clique1(){
        
         const InfoBoi = document.getElementById('info-boi');
         const DivInvisivel = document.getElementById('sec-invisivel');
         DivInvisivel.classList.toggle('section-invisivel')
-        InfoBoi.innerHTML = 'Maior Corno da Historia da NWD Games!'
+        InfoBoi.innerHTML = 'Maior Corno da História da NWD Games!'
         }
         
        function clique2(){
@@ -59,12 +61,10 @@ export default function Home(){
     <>
    <header>
 
-    <section className='cabecalho'>
-        <div className='cabecalho-h1'>
+    <section className='cabecalho'id='cabecalho' >
+        <div className='cabecalho-h1' >
             <h1 onMouseLeave={bv} id='el'>HarD-GhosT &reg; 2024 </h1>
-            <span onClick={dark} class="material-symbols-outlined">
-dark_mode
-</span>
+
         </div>
         </section>
         <section className='menu'>
@@ -85,7 +85,9 @@ dark_mode
                 </div>
                 <div className="cargos-lista">
                 <h3>Fundador:</h3>
-                <p>Ithesnoorthdor</p>
+                  
+                    <p>Ithesnoorthdor</p>
+           
             </div>
             <div >
             <div className="cargos-lista">
@@ -97,6 +99,11 @@ dark_mode
                 <p>[HarD]TerStegen</p>
                  <p>[HarD]Ninja</p>
                 <p>[HarD]Dourado</p>
+        </div>
+        <div className="cargos-lista-mais">
+   
+                <Link to='/membros'><h4>Ver Todos os Membros</h4></Link>
+             
         </div>
             </div>
             </div>
@@ -110,10 +117,10 @@ dark_mode
                     <img src={Corno}alt=""/>
                 </div>
             </section>
-            <section class="section">
+            <section className="section">
                 <div className="txt">
                     <div>
-                    <h3 >Seja Bem Vindo(a) ao nosso Site do clâ HarD-GhosT.</h3>
+                    <h3 >Seja muito Bem Vindo(a) ao nosso Site do clâ HarD-GhosT</h3>
                     <img id="img-boi" onClick={clique1} src={Boi} alt="boi" style={{cursor:'pointer'}}/>
                 </div>
                     <p id='info-boi'>INFO: A HarD-GhosT Foi Fundada no Ano de 2013 pelo jogador Ithesnoorthdor e atualmente está com o dono Dj Calvinho(Felipe).</p>
@@ -138,7 +145,9 @@ dark_mode
                     <h2>Contatos:</h2>
                     <a href="https://discord.gg/Cs9p7qPjzz" target="_blank"><p>DiscorD</p></a>
                     <p onClick={zap} >WhatsApp</p>
-                    <a href="https://nwdg.forumeiros.com/" target="_blank"><p>Forum</p></a>
+                    <a href="https://raphaelm10.github.io/HarD-GhosT/" target="_blank"><p>Site Versão 1.0</p></a>
+                </div>
+                <div>
                 </div>
                 <div className="destaques">
                     <div className="destaque-div">
@@ -147,11 +156,11 @@ dark_mode
                     </div>
                     <div >
                         <div className="destaque-lista">
-                        <h3>Corno:</h3>
+                        <h3>Maior Corno:</h3>
                         <p>[HarD]$upremo</p>
                     </div>
                     <div className="destaque-lista">
-                        <h3>Casado:</h3>
+                        <h3>Meu Prefeito:</h3>
                         <p>[HarD]TerStegen</p>
                     </div>
                     <div className="destaque-lista">
@@ -159,9 +168,10 @@ dark_mode
                         <p>[HarD]Gustavo</p>
                     </div>
                     <div className="destaque-lista">
-                        <h3>Bebado:</h3>
+                        <h3>Maior Bebado:</h3>
                         <p>Ithesnoorthdor</p>
                     </div>
+                    
                 </div>
                 </div>
             </div>
@@ -174,7 +184,7 @@ dark_mode
             <section className="section-reflexao">
                 <div className="div-reflexao-1">
                     <h2>Reflexão</h2>
-                    <p>"Nunca Zoe de uma pessoa Calva pois a sua pode chegar a qualquer momento"<br/>--- <i> DJ Calvinho</i></p>
+                    <p>"Como o tempo a calvície chega, a barba embranquece, a vida muda, as coisas mudam"<br/>--- <i> DJ Calvinho</i></p>
                 </div>
                 <div className='div-reflexao-2'>
                     <img  id='img-calvo' onClick={clique3} src={DJCalvo} alt=""/>
@@ -183,7 +193,7 @@ dark_mode
             <section className="section-3">
                 <div className="div-galeria">
                 <Link to='/videos'><p>Videos</p></Link>
-                <Link to='/samp'><p>Dowload</p></Link>
+                <Link to='/membros'><p>Membros</p></Link>
                 <Link to='/memes' ><p>Memes</p></Link>
                 
             </div>
@@ -192,7 +202,8 @@ dark_mode
            <section className="section-2">
             <div className="mais-info">
                 <h2>Mais Informações:</h2>
-                <p>A HarD-Ghost atualmente obtem 3 Bases Clâ, sendo 2 na Cidade de San Fierro e 1 em Las Venturas.</p>
+                <p>Nosso clâ (HarD-GhosT) foi fundado em 2013 e atualmente em 2024, a HarD-GhosT obtem 3 Bases Clâ, sendo 2 na Cidade de San Fierro e 1 em Las Venturas. A HarD acabou
+                    se destacando no cenario de clâs cada vez maior e influente ao decorrer dos anos. </p>
             </div>
            </section>
           

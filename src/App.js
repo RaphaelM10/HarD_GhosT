@@ -5,6 +5,7 @@ import PaginaSamp from './Pagina_Inicial/PaginaSamp'
 import PaginaVideos from './Pagina_Inicial/PaginaVideos'
 import PaginaVideos1 from './Pagina_Inicial/PaginaVideos1'
 import PaginaMemes from './Pagina_Inicial/PaginaMemes'
+import PaginaMembros from './Pagina_Inicial/PaginaMembros'
 
 
 
@@ -20,6 +21,7 @@ function App() {
         <Route  path="/videos" element={<PaginaVideos/>} />
         <Route  path="/videos2" element={<PaginaVideos1/>} />
         <Route  path="/memes" element={<PaginaMemes/>} />
+        <Route  path="/membros" element={<PaginaMembros/>} />
         </Routes>
     
         

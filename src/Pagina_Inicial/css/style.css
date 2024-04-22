@@ -1,19 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+
+
 *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
-body{
-    overflow-x: hidden;
-    font-family: 'Oswald', sans-serif;
-    background-image: url("../img/fundo3.jpg");
-    background-repeat: no-repeat;
-    background-position: center ;
-    background-size: cover;
 
-}
 body::-webkit-scrollbar {
     width: 14px;               /* width of the entire scrollbar */
   }
@@ -33,7 +27,8 @@ a{
 .cabecalho{
     text-align: center;
     width: 100%;
-    background-color: rgb(67, 25, 107);
+    background-color: rgb(61, 15, 105);
+ 
 }
 .cabecalho-h1{
     display: flex;
@@ -41,9 +36,10 @@ a{
     align-items: center;
 }
 .cabecalho-h1 h1{
-    font-family: 'Oswald', sans-serif;
+    font-family: "Jersey 25", sans-serif;
+    
     color: #fff;
-    padding: 30px;
+    padding: 40px;
     animation: mudar1 forwards 10s ;
 }
 .cabecalho-h1 span{
@@ -68,15 +64,20 @@ a{
     background-color: #fff;
     padding: 17px;
     color: rgb(96, 45, 143);
-    border-radius: 15px;
+    border-radius: 10px;
     cursor: pointer;
-    transition: 0.7s;
+    transition: 0.4s;
+    font-family: "kanit", sans-serif;
 }
 .menu-opcao p:hover{
+    transition: 1s;
+    opacity: 0.5;
     background-color: rgb(145, 79, 204);
-    padding-right: 50px;
-    padding-left: 50px;
+    
 }
+
+
+
 
 .cargos{
     display: flex;
@@ -96,16 +97,21 @@ a{
 .cargos-div{
     background-color: #fff;
     color: rgb(97, 32, 158);
-    padding: 60px;
+    padding: 40px;
     border-radius: 7px;
    
 }
 .cargos-lista{
     padding-top: 30px;
 }
-
-
-    
+.cargos-lista-mais{
+    display: flex;
+    padding-top: 30px;
+}
+.cargos-lista-mais h4:hover{
+    transition: 0.9s;
+    color: blueviolet;
+}
 .section{
     padding: 50px;
     color: #fff;
@@ -114,12 +120,11 @@ a{
 
 .txt{
     text-align: center;
-    background-color: rgb(124, 48, 196,0.5) ;
-    padding: 30px;
-    
+    background-image: linear-gradient(rgb(61, 15, 105,0.95),rgba(51, 18, 78, 0.95),rgb(61, 15, 105,0.95));
+    padding: 50px;
     border: 3px solid #fff;
     margin-bottom: 50px;
-    font-family: 'Kanit', sans-serif;
+    font-family: "Roboto Condensed", sans-serif;
 
 }
 .txt h3{
@@ -193,12 +198,13 @@ a{
 .sec-dourado{
     font-size: 16px;
     text-align: center;
-    background-color: rgba(107, 20, 194, 0.90) ;
+    background-image: linear-gradient(rgb(61, 15, 105,0.95),rgba(51, 18, 78, 0.95),rgb(61, 15, 105,0.95));
     border: 3px solid #fff;
+    padding: 50px;
     margin-left: 150px;
     margin-right: 150px;
     margin-bottom: 40px;
-    font-family: 'Kanit', sans-serif;
+    font-family: "Roboto Condensed", sans-serif;
 }
 .sec-dourado h3{
     padding-top: 20px;
@@ -209,12 +215,12 @@ a{
 }
 .txt-2{
    text-align: center;
-   background-color: rgba(89, 8, 165, 0.91) ;
+   background-image: linear-gradient(rgb(61, 15, 105,0.95),rgba(51, 18, 78, 0.95),rgb(61, 15, 105,0.95));
    border: 3px solid #fff;
    margin-bottom: 40px;
-   margin-left: 70px;
-   margin-right: 70px;
-   font-family: 'Kanit', sans-serif;
+   margin-left: 150px;
+   margin-right: 150px;
+   font-family: "Roboto Condensed", sans-serif;
 }
 .txt-2 h3{
     padding-top: 19px;
@@ -230,8 +236,9 @@ a{
 }
 .section-conteudos{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     padding-bottom: 150px;
+  
 }
 .contatos {
 
@@ -243,7 +250,7 @@ a{
     border: 3px solid #fff;
     border-radius: 7px;
     padding: 60px;
-    background-color: rgb(97, 32, 158,0.95);
+    background-image: linear-gradient(rgb(61, 15, 105,0.95),rgba(117, 82, 145, 0.95),rgb(61, 15, 105,0.95));
 
 
 }
@@ -268,6 +275,9 @@ a{
         padding-top: 10px;
     }
 }
+#divisao{
+    font-size: 400px;
+}
 .destaques{
     
     text-align: center;
@@ -275,7 +285,7 @@ a{
     border: 3px solid #fff;
     border-radius: 7px;
     padding: 60px;
-    background-color: rgb(97, 32, 158,0.95);
+    background-image: linear-gradient(rgb(61, 15, 105,0.95),rgba(117, 82, 145, 0.95),rgb(61, 15, 105,0.95));
   
 }
 .destaque-div{
@@ -332,7 +342,7 @@ a{
     padding: 20px;
     border-radius: 7px;
     cursor: pointer;
-
+    font-family: "Roboto Condensed", sans-serif;
 }
 .div-galeria  p:hover{
     background-color: rgb(142, 74, 206);
