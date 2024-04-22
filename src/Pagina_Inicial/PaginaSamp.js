@@ -76,7 +76,7 @@ export default function HeaderAbertura(){
         </section>
         <section className="section-baixar-s">
             <div>
-                <a href="https://www.nwdgames.net/arquivos"><p>Windows</p></a>
+                <a href="https://www.sa-mp.mp/downloads/"><p>Windows</p></a>
                 <a href="https://www.mediafire.com/file/uvtxyfk47g0s4hc/FIVEM+APK+ATUALIZADO+????.7z/file"><p>Android</p></a>
             </div>
         </section>
