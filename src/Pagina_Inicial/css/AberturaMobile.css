@@ -7,17 +7,10 @@
         background-position: center ;
         background-size: cover;
     }
-    .abert{
-        margin-top: 150px;
-    }
+ 
     .main-abertura{
-        text-align: center;
-        padding-top: 20px;
-        color: #fff;
-        background-color: rgb(87, 43, 128);
-        border-radius: 8px;
-        margin: 10px 100px 30px 100px;
-        border: 3px solid #fff;
+       margin-left: 3px;
+       margin-right: 3px;
         
     }
     .main-abertura h1{
@@ -56,114 +49,30 @@
 
 
 
-@media(max-width:1159px){
-    .abert{
-        margin-top: 150px;
-    }
-    .main-abertura{
-        text-align: center;
-        padding-top: 20px;
-        color: #fff;
-        background-color: rgb(87, 43, 128);
-        border-radius: 8px;
-        margin: 10px 60px 30px 60px;
-        border: 3px solid #fff;
-        
-    }
-
-   
-  
-   
-  
-   
-}
 
 
 
 
 @media(max-width:999px){
     .main-abertura{
-        text-align: center;
-        padding-top: 20px;
-        color: #fff;
-        background-color: rgb(87, 43, 128);
+
         border-radius: 8px;
-        margin: 10px 7px 30px 7px;
         border: 3px solid #fff;
     }
 }
 
 
 
-@media(max-width:957px){
-    .main-abertura{
-        text-align: center;
-        padding-top: 2px;
-        color: #fff;
-        background-color: rgb(87, 43, 128);
-        border-radius: 8px;
-        margin: 1px 12px 30px 10px;
-        border: 3px solid #fff;
-    }
-}
 
-
-@media(max-width:836px){
-    .main-abertura{
-        text-align: center;
-        padding-top: 20px;
-        color: #fff;
-        background-color: rgb(87, 43, 128);
-        border-radius: 8px;
-        margin: 10px 100px 30px 100px;
-        border: 3px solid #fff;
-    }
-    .main-abertura h1{
-        font-size: 27px;
-        transition: 0.8s;
-        animation: piscar 12s forwards;
-    }
-   
-    .main-abertura img{
-        width: 370px;
-        transition: 1s;
-        animation: aumento 5s infinite;
-    }
-   
-    .main-abertura p{
-        background-color: #fff;
-        padding: 30px;
-        color: rgb(87, 43, 128);
-        font-family: 'kanit',sans-serif;
-    }
-    .main-abertura p:hover{
-        box-shadow: 1px 1px 1px 1px black;
-        cursor: pointer;
-        font-size: 18px;
-        transition: 1s;
-        border-radius: 5px;
-        animation: mouse forwards 6s;
-    }
-    .main-abertura h3{
-        font-weight: 400;
-        font-size: 19px;
-        padding-bottom: 20px;
-    
-    }
- 
-}
 
 
 
 
 @media(max-width:761px){
     .main-abertura{
-        text-align: center;
-        padding-top: 20px;
-        color: #fff;
-        background-color: rgb(87, 43, 128);
+        
         border-radius: 8px;
-        margin: 10px 70px 30px 70px;
+    
         border: 3px solid #fff;
     }
     .main-abertura h1{
@@ -173,7 +82,7 @@
     }
    
     .main-abertura img{
-        width: 370px;
+        width: 610px;
         transition: 1s;
         animation: aumento 5s infinite;
     }
@@ -204,16 +113,10 @@
 
 
 @media(max-width:688px){
-   .abert{
-    margin-top: 170px;
-   }
+
     .main-abertura{
         text-align: center;
         padding-top: 20px;
-        color: #fff;
-        background-color: rgb(87, 43, 128);
-        border-radius: 8px;
-        margin: 10px 50px 30px 50px;
         border: 3px solid #fff;
        
     }
@@ -224,7 +127,7 @@
     }
    
     .main-abertura img{
-        width: 320px;
+        width: 600px;
         transition: 1s;
         animation: aumento 5s infinite;
     }
@@ -257,23 +160,6 @@
 
 
 
-@media(max-width:663px){
-    .abert{
-        margin-top: 190px;
-       }
-    .main-abertura{
-        text-align: center;
-        padding-top: 20px;
-        color: #fff;
-        background-color: rgb(87, 43, 128);
-        border-radius: 8px;
-        margin: 10px 20px 10px 20px;
-        border: 3px solid #fff;
-       
-    }
-   
-    
-}
 
 
 
@@ -286,10 +172,8 @@
     .main-abertura{
         text-align: center;
         padding-top: 20px;
-        color: #fff;
-        background-color: rgb(87, 43, 128);
         border-radius: 8px;
-        margin: 10px 20px 10px 20px;
+        margin-bottom: 65px;
         border: 3px solid #fff;
        
     }
@@ -300,7 +184,7 @@
     }
    
     .main-abertura img{
-        width: 280px;
+        width: 500px;
         transition: 1s;
         animation: aumento 5s infinite;
     }
@@ -331,38 +215,33 @@
 
 
 @media(max-width:493px){
-    .abert{
-      padding-top: 10px;
-        padding-bottom: 80px;
-    }
-    
+   
     .main-abertura{
-        text-align: center;
-        padding-top: 20px;
-        color: #fff;
-        background-color: rgb(87, 43, 128);
+        
         border-radius: 8px;
-        margin: 10px 10px 10px 10px;
+        margin: 1px;
         border: 3px solid #fff;
+        padding-bottom:196px;
        
     }
     .main-abertura h1{
+        margin-top: 70px;
         font-size: 22px;
         transition: 0.8s;
         animation: piscar 12s forwards;
     }
    
     .main-abertura img{
-        width: 240px;
+        width: 280px;
         transition: 1s;
         animation: aumento 5s infinite;
     }
    
     .main-abertura p{
         background-color: #fff;
-        padding: 30px;
+        padding: 20px;
         color: rgb(87, 43, 128);
-        font-family: 'kanit',sans-serif;
+        font-size: 14px;
     }
     .main-abertura p:hover{
         box-shadow: 1px 1px 1px 1px black;
@@ -375,47 +254,41 @@
     .main-abertura h3{
         font-weight: 400;
         font-size: 15px;
-        padding-bottom: 20px;
+        padding-bottom: 150px;
     
     }
  
 }
 
 
-@media(max-width:416px){
-    .abert{
-        margin-top: 200px;
-        
-    }
+@media(max-width:413px){
+
     
     .main-abertura{
-        text-align: center;
-        padding-top: 20px;
-        color: #fff;
-        background-color: rgb(87, 43, 128);
         border-radius: 8px;
-        margin: 10px 10px 10px 10px;
+        margin: 1px;
+        
+        
         border: 3px solid #fff;
        
     }
     .main-abertura h1{
+        margin-top: 40px;
         font-size: 18px;
         transition: 0.8s;
         animation: piscar 12s forwards;
     }
    
     .main-abertura img{
-        width: 220px;
+        width: 320px;
         transition: 1s;
         animation: aumento 5s infinite;
     }
    
     .main-abertura p{
-        background-color: #fff;
-        padding: 30px;
-        color: rgb(87, 43, 128);
-        font-family: 'kanit',sans-serif;
+     
         font-size: 14px;
+        margin-bottom: 0px;
     }
     .main-abertura p:hover{
         box-shadow: 1px 1px 1px 1px black;
@@ -427,7 +300,7 @@
     .main-abertura h3{
         font-weight: 400;
         font-size: 15px;
-        padding-bottom: 20px;
+        padding-bottom: 146px;
     
     }
  
@@ -437,166 +310,58 @@
 
 
 
-@media(max-width:369px){
-    
-    .abert{
-        margin-top: 200px;
-        margin-bottom: 300px;
-        
-    }
-    .main-abertura{
-        text-align: center;
-        padding-top: 15px;
-        color: #fff;
-        background-color: rgb(87, 43, 128);
-        border-radius: 8px;
-        margin: 10px 10px 10px 10px;
-        border: 3px solid #fff;
-       
-    }
-    .main-abertura h1{
-        font-size: 16px;
-        transition: 0.8s;
-        animation: piscar 12s forwards;
-    }
-   
-    .main-abertura img{
-        width: 190px;
-        transition: 1s;
-        animation: aumento 5s infinite;
-    }
-   
-    .main-abertura p{
-        background-color: #fff;
-        padding: 20px;
-        color: rgb(87, 43, 128);
-        font-family: 'kanit',sans-serif;
-        font-size: 14px;
-    }
-    .main-abertura p:hover{
-        box-shadow: 1px 1px 1px 1px black;
-        cursor: pointer;
-        transition: 1s;
-        border-radius: 5px;
-        animation: mouse forwards 6s;
-    }
-    .main-abertura h3{
-        font-weight: 400;
-        font-size: 13px;
-        padding-bottom: 20px;
-    
-    }
- 
-}
 
 
 
 
 @media(max-width:316px){
    
-    .abert{
-        margin-top: 200px;
-        margin-bottom: 300px;
-        
-    }
+
     .main-abertura{
-        text-align: center;
-        padding-top: 15px;
-        color: #fff;
-        background-color: rgb(87, 43, 128);
-        border-radius: 8px;
-        margin: 10px 10px 10px 10px;
+     
+        border-radius: 0px;
+        margin: 1px;
         border: 3px solid #fff;
        
     }
     .main-abertura h1{
+        margin-top: 200px;
         font-size: 16px;
         transition: 0.8s;
         animation: piscar 12s forwards;
     }
    
     .main-abertura img{
-        width: 190px;
+        width: 200px;
         transition: 1s;
         animation: aumento 5s infinite;
     }
    
     .main-abertura p{
-        background-color: #fff;
+ 
         padding: 20px;
-        color: rgb(87, 43, 128);
-        font-family: 'kanit',sans-serif;
+        margin-bottom: 145px;
+    
         font-size: 14px;
     }
     .main-abertura p:hover{
         box-shadow: 1px 1px 1px 1px black;
         cursor: pointer;
         transition: 1s;
-        border-radius: 5px;
-        animation: mouse forwards 6s;
-    }
-    .main-abertura h3{
-        font-weight: 400;
-        font-size: 13px;
-        padding-bottom: 20px;
-    
-    }
- 
-}
-
-
-
-
-
-@media(max-width:277px){
-    .abert{
-        margin-top: 200px;
-        margin-bottom: 300px;
         
-    }
-    
-    .main-abertura{
-        text-align: center;
-        padding-top: 15px;
-        color: #fff;
-        background-color: rgb(87, 43, 128);
-        border-radius: 8px;
-        margin: 10px 10px 10px 10px;
-        border: 3px solid #fff;
-       
-    }
-    .main-abertura h1{
-        font-size: 14px;
-        font-weight: 400;
-        transition: 0.8s;
-        animation: piscar 12s forwards;
-    }
-   
-    .main-abertura img{
-        width: 140px;
-        transition: 1s;
-        animation: aumento 5s infinite;
-    }
-   
-    .main-abertura p{
-        background-color: #fff;
-        padding: 15px;
-        color: rgb(87, 43, 128);
-        font-family: 'kanit',sans-serif;
-        font-size: 13px;
-    }
-    .main-abertura p:hover{
-        box-shadow: 1px 1px 1px 1px black;
-        cursor: pointer;
-        transition: 1s;
         border-radius: 5px;
         animation: mouse forwards 6s;
     }
     .main-abertura h3{
         font-weight: 400;
-        font-size: 12px;
-        padding-bottom: 20px;
+        font-size: 13px;
+        padding-bottom: 90px;
     
     }
  
 }
+
+
+
+
+

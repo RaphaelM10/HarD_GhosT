@@ -1039,8 +1039,6 @@
     }
     
     .cabecalho-h1 h1{
-        font-family: 'Oswald', sans-serif;
-        background-color: rgb(67, 25, 107);
         color: #fff;
         padding: 30px;
         animation: mudar1 forwards 10s ;
@@ -1276,9 +1274,7 @@
     }
     
     .cabecalho-h1 h1{
-        font-family: 'Oswald', sans-serif;
-        background-color: rgb(67, 25, 107);
-        color: #fff;
+    
         padding: 30px;
         animation: mudar1 forwards 10s ;
     }
@@ -1536,9 +1532,7 @@
     }
     
     .cabecalho-h1 h1{
-        font-family: 'Oswald', sans-serif;
-        background-color: rgb(67, 25, 107);
-        color: #fff;
+   
         font-size: 17px;
         padding: 30px;
         animation: mudar1 forwards 10s ;
@@ -1779,9 +1773,7 @@
     }
     
     .cabecalho-h1 h1{
-        font-family: 'Oswald', sans-serif;
-        background-color: rgb(67, 25, 107);
-        color: #fff;
+   
         font-size: 15px;
         font-weight: 400;
         padding: 30px;
