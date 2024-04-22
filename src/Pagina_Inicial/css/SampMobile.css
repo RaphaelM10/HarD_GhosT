@@ -51,14 +51,15 @@
         width: 500px;
     }
 }
+
+
+
 @media (max-width:510px){
     .cabecalho-h1-s h1{
-        font-family: 'Oswald', sans-serif;
-        background-color: rgb(67, 25, 107);
         color: #fff;
         padding: 30px;
         animation: mudar1 forwards 10s ;
-        font-size: 18px;
+        font-size: 24px;
     }
     .menu-s{
         padding-top: 50px;
@@ -71,11 +72,10 @@
         display: flex;
         justify-content: space-around;
     }
-    .menu-opcao-s p {
+    
+    .menu-opcao-s p{
         background-color: #fff;
-        padding: 17px;
-        color: rgb(96, 45, 143);
-        border-radius: 15px;
+        padding: 19px;
         cursor: pointer;
         transition: 0.7s;
         font-size: 14px;
@@ -441,6 +441,43 @@
 }
 
 
+
+
+@media (max-width:530px){
+    
+    .cabecalho-s{
+        text-align: center;
+        width: 100%;
+       
+    }
+    
+    .cabecalho-h1-s h1{
+        padding: 30px;
+        animation: mudar1 forwards 10s ;
+    }
+    .menu-s{
+        padding-top: 50px;
+        text-align: center;
+        background-color: rgb(76, 23, 122);
+        padding: 40px;
+    }
+    .menu-opcao-s{
+        display: flex;
+        justify-content: space-around;
+        gap: 10px;
+    }
+    .menu-opcao-s p{
+
+        padding: 14px;
+   
+        cursor: pointer;
+        transition: 0.7s;
+    }
+
+       
+       
+   
+}
 @media (max-width:525px){
     .cargos-div-img img{
         background-color:  rgb(76, 23, 122);
@@ -546,6 +583,53 @@
      
 }
 
+@media (max-width:459px){
+    
+    .cabecalho-s{
+        text-align: center;
+        width: 100%;
+       
+    }
+    
+    .cabecalho-h1-s h1{
+
+        padding: 30px;
+        animation: mudar1 forwards 10s ;
+    }
+    .menu-s{
+        padding-top: 50px;
+        text-align: center;
+        padding: 40px;
+    }
+    .menu-opcao-s{
+        display: flex;
+        justify-content: space-around;
+        gap: 10px;
+    }
+    .menu-opcao-s p{
+
+        padding: 14px;
+
+ 
+        cursor: pointer;
+        transition: 0.7s;
+    }
+    
+    .section-voltar-s{
+        font-size: 10px;
+        padding: 20px;
+        background-color:rgb(92, 35, 145) ;
+        margin-top: 50px;
+        text-align: center;
+        color: #fff;
+        transition: 1s;
+    
+    }
+
+       
+       
+   
+}
 
 @media (max-width:450px){
     .cargos-div-img img{
@@ -637,38 +721,7 @@
         width: 220px;
         height: 220px;
     }
-    .cabecalho-h1-s h1{
-        font-family: 'Oswald', sans-serif;
-        background-color: rgb(67, 25, 107);
-        color: #fff;
-        font-weight: 400;
-        padding: 30px;
-        animation: mudar1 forwards 10s ;
-        
-    }
-    .menu-s{
-        padding-top: 50px;
-        text-align: center;
-        background-color: rgb(76, 23, 122);
-        padding: 40px;
-     
-    }
-    .menu-opcao-s{
-        display: flex;
-        justify-content: space-around;
-        gap: 7px;
-    }
-    .menu-opcao-s p {
-        background-color: #fff;
-        padding: 14px;
-        color: rgb(96, 45, 143);
-        border-radius: 15px;
-        cursor: pointer;
-        transition: 0.7s;
-        font-size: 14px;
-    }
-
-
+   
     .section-s{
         margin-top: 100px;
         padding: 40px;
@@ -824,6 +877,85 @@
      }
 
 }
+
+@media (max-width:395px){
+    
+    .cabecalho-s{
+        text-align: center;
+        width: 100%;
+       
+    }
+    
+    .cabecalho-h1-s h1{
+
+        font-size: 17px;
+        padding: 30px;
+        animation: mudar1 forwards 10s ;
+    }
+    .menu-s{
+        padding-top: 50px;
+        text-align: center;
+    
+        padding: 40px;
+    }
+    .menu-opcao-s{
+        display: flex;
+        justify-content: space-around;
+        gap: 10px;
+    }
+    .menu-opcao-s p{
+        padding: 14px;
+        cursor: pointer;
+        transition: 0.7s;
+        font-size: 13px;
+    }
+
+       
+       
+   
+}
+@media (max-width:362px){
+    
+    .cabecalho-s{
+        text-align: center;
+        width: 100%;
+       
+    }
+    
+    .cabecalho-h1-s h1{
+        font-size: 15px;
+        font-weight: 400;
+        padding: 30px;
+        animation: mudar1 forwards 10s ;
+    }
+    .menu-s{
+        padding-top: 50px;
+        text-align: center;
+        background-color: rgb(76, 23, 122);
+        padding: 40px;
+    }
+    .menu-opcao-s{
+        display: flex;
+        justify-content: space-around;
+        gap: 10px;
+    }
+    .menu-opcao-s p{
+        background-color: #fff;
+        padding: 14px;
+        cursor: pointer;
+        transition: 0.7s;
+        font-size: 10px;
+    }
+   
+
+   
+}
+
+
+
+
+
+
 
 
 @media(max-width:357px){
@@ -991,35 +1123,7 @@
         width: 130px;
         height: 130px;
     }
-    .cabecalho-h1-s h1{
-        font-family: 'Oswald', sans-serif;
-        background-color: rgb(67, 25, 107);
-        color: #fff;
-        padding: 30px;
-        animation: mudar1 forwards 10s ;
-        font-size: 14px;
-    }
-    .menu-s{
-        padding-top: 50px;
-        text-align: center;
-        background-color: rgb(76, 23, 122);
-        padding: 40px;
-     
-    }
-    .menu-opcao-s{
-        display: flex;
-        justify-content: space-around;
-        gap: 9px;
-    }
-    .menu-opcao-s p {
-        background-color: #fff;
-        padding: 14px;
-        color: rgb(96, 45, 143);
-        border-radius: 15px;
-        cursor: pointer;
-        transition: 0.7s;
-        font-size: 12px;
-    }
+ 
    
     .section-info-s{
         margin-top: 100px;
@@ -1041,66 +1145,12 @@
 
 
 
-@media (max-width:271px){
-    .cabecalho-h1-s h1{
-        font-family: 'Oswald', sans-serif;
-        background-color: rgb(67, 25, 107);
-        color: #fff;
-        padding: 30px;
-        animation: mudar1 forwards 10s ;
-        font-size: 14px;
-    }
-    .menu-s{
-        padding-top: 50px;
-        text-align: center;
-        background-color: rgb(76, 23, 122);
-        padding: 40px;
-     
-    }
-    .menu-opcao-s{
-        display: flex;
-        justify-content: space-around;
-        gap: 9px;
-    }
-    .menu-opcao-s p {
-        background-color: #fff;
-        padding: 14px;
-        color: rgb(96, 45, 143);
-        border-radius: 15px;
-        cursor: pointer;
-        transition: 0.7s;
-        font-size: 10px;
-    }
-    
 
-
-    
-}
 
 
 
 @media(max-width:247px){
-    .menu-s{
-        padding-top: 50px;
-        text-align: center;
-        background-color: rgb(76, 23, 122);
-        padding: 40px;
-     
-    }
-    .menu-opcao-s{
-        display: flex;
-        justify-content: space-around;
-        gap: 9px;
-    }
-    .menu-opcao-s p {
-        background-color: #fff;
-        padding: 14px;
-        color: rgb(96, 45, 143);
-        border-radius: 15px;
-        cursor: pointer;
-        transition: 0.7s;
-        font-size: 12px;
-    }
+   
    
     .section-info-s{
         margin-top: 100px;
@@ -1123,35 +1173,7 @@
 
 
 @media (max-width:271px){
-    .cabecalho-h1-s h1{
-        font-family: 'Oswald', sans-serif;
-        background-color: rgb(67, 25, 107);
-        color: #fff;
-        padding: 30px;
-        animation: mudar1 forwards 10s ;
-        font-size: 14px;
-    }
-    .menu-s{
-        padding-top: 50px;
-        text-align: center;
-        background-color: rgb(76, 23, 122);
-        padding: 40px;
-     
-    }
-    .menu-opcao-s{
-        display: flex;
-        justify-content: space-around;
-        gap: 9px;
-    }
-    .menu-opcao-s p {
-        background-color: #fff;
-        padding: 10px;
-        color: rgb(96, 45, 143);
-        border-radius: 15px;
-        cursor: pointer;
-        transition: 0.7s;
-        font-size: 9px;
-    }
+  
     .section-s{
         margin-top: 100px;
         padding: 14px;
@@ -1225,3 +1247,31 @@
      }
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1060,7 +1060,7 @@
         background-color: #fff;
         padding: 14px;
         color: rgb(96, 45, 143);
-        border-radius: 15px;
+   
         cursor: pointer;
         transition: 0.7s;
     }
@@ -1297,7 +1297,7 @@
         background-color: #fff;
         padding: 14px;
         color: rgb(96, 45, 143);
-        border-radius: 15px;
+
         cursor: pointer;
         transition: 0.7s;
     }
@@ -1558,7 +1558,7 @@
         background-color: #fff;
         padding: 14px;
         color: rgb(96, 45, 143);
-        border-radius: 15px;
+
         cursor: pointer;
         transition: 0.7s;
         font-size: 13px;
@@ -1802,7 +1802,7 @@
         background-color: #fff;
         padding: 14px;
         color: rgb(96, 45, 143);
-        border-radius: 15px;
+    
         cursor: pointer;
         transition: 0.7s;
         font-size: 10px;
